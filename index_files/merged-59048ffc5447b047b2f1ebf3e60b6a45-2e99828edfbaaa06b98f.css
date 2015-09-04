@@ -1,0 +1,1307 @@
+.tx-felogin-pi1 label{display:block}
+.tx-srfeuserregister-pi1 p{margin-top:.5em;margin-bottom:0;padding:0 .3em;text-indent:0}
+.tx-srfeuserregister-pi1 h4{margin-top:0;padding-left:.3em}
+.tx-srfeuserregister-pi1 legend{padding:0 .5em;font-weight:bold}
+.tx-srfeuserregister-pi1 .tx-srfeuserregister-pi1-notice{font-style:italic;margin-bottom:1em}
+.tx-srfeuserregister-pi1 .tx-srfeuserregister-pi1-trash{margin-bottom:2em}
+.tx-srfeuserregister-pi1 a{padding-left:14px;background-image:url('http://www.uni-ulm.de/typo3conf/ext/sr_feuser_register/pi1/internal_link.gif');background-repeat:no-repeat;background-position:0% 60%;text-decoration:none}
+.tx-srfeuserregister-pi1 label{margin:0;padding:0}
+.tx-srfeuserregister-pi1 label span{color:#ff0000}
+.tx-srfeuserregister-pi1 .tx-srfeuserregister-pi1-error{color:#ff0000}
+.tx-srfeuserregister-pi1 input{margin:0;padding:0 .5em 0 0}
+.tx-srfeuserregister-pi1 input[type=password]{margin-right:1em}
+* html .tx-srfeuserregister-pi1 input.tx-srfeuserregister-pi1-password{margin-right:1em}
+.tx-srfeuserregister-pi1 input[type=radio],.tx-srfeuserregister-pi1 input[type=checkbox]{background-color:transparent}
+* html .tx-srfeuserregister-pi1 input.tx-srfeuserregister-pi1-radio,* html .tx-srfeuserregister-pi1 input.tx-srfeuserregister-pi1-checkbox{background-color:transparent}
+.tx-srfeuserregister-pi1 .tx-srfeuserregister-pi1-delete-icon{margin-left:1em;background-color:transparent}
+.tx-srfeuserregister-pi1 .tx-srfeuserregister-pi1-delete-icon:hover{cursor:pointer}
+.tx-srfeuserregister-pi1 a.tx-srfeuserregister-pi1-file-view{padding-left:15px;background-image:url('http://www.uni-ulm.de/typo3conf/ext/sr_feuser_register/pi1/internal_link_new_window.gif');background-color:transparent;background-repeat:no-repeat;font-size:.8em;margin-left:1em}
+.tx-srfeuserregister-pi1 ul{margin:0;padding:0;list-style-position:inside}
+.tx-srfeuserregister-pi1 ul.tx-srfeuserregister-multiple-checkboxes{list-style-type:none}
+.tx-srfeuserregister-pi1 ul.tx-srfeuserregister-multiple-checkboxes li{margin:0 0 .3em 0;padding:0}
+.tx-srfeuserregister-pi1 ul.tx-srfeuserregister-multiple-checkboxes li label{margin:0;padding:0 0 0 .5em}
+.tx-srfeuserregister-pi1 ul.tx-srfeuserregister-multiple-checked-values li{float:left;padding:0 2em 0 0;margin:0}
+.tx-srfeuserregister-pi1 dl{margin:0;padding:1em 0 0 0}
+.tx-srfeuserregister-pi1 dt,.tx-srfeuserregister-pi1 dd{margin:0;padding:0 0 .5em 0;float:left}
+.tx-srfeuserregister-pi1 dt{clear:both;width:25%;text-align:right;padding-right:1em}
+.tx-srfeuserregister-pi1 dd{text-align:left;width:50%}
+.tx-srfeuserregister-pi1 .tx-srfeuserregister-pi1-multiple-checkboxes dt{width:auto;padding-right:0}
+.tx-srfeuserregister-pi1 .tx-srfeuserregister-pi1-multiple-checkboxes dd{width:auto}
+* html .tx-srfeuserregister-pi1 dd{float:none}
+.tx-srfeuserregister-pi1 dd p{margin-top:0;margin-bottom:.5em;padding:0}
+.tx-srfeuserregister-pi1 dd label{padding:0 1em 0 .5em}
+.tx-imagecycle-pi1-images{display:none;position:relative;overflow:hidden;list-style:none;margin:0;padding:0}
+.tx-imagecycle-pi1-images img{display:block}
+.tx-imagecycle-pi1-images li{position:absolute;margin:0;padding:0}
+.tx-imagecycle-pi1-images li,.tx-imagecycle-pi1-images a{display:block;position:relative}
+.tx-imagecycle-pi1-images a:hover{background:none;border:0 !important}
+.tx-imagecycle-pi1-images .imagecycle-caption{position:absolute;left:0;bottom:0;
+width:100%;padding:5px;color:#fff;background:#000;opacity:0.8;white-space:nowrap;display:none}
+.tx-imagecycle-pi1-images .imagecycle-caption a{display:inline;color:#9bd}
+.tx-imagecycle-pi1-images .imagecycle-caption a:hover{color:#acf}
+.tx-imagecycle-pi1-pager{margin:0 0 5px 0;text-align:center}
+.tx-imagecycle-pi1-pager a{border:1px solid #ccc;background:#fc0;text-decoration:none;margin:0 5px;padding:3px 5px}
+.tx-imagecycle-pi1-pager a.activeSlide{background:#ea0}
+noscript .tx-imagecycle-pi1-images{display:block}
+noscript .tx-imagecycle-pi1-images li{float:left;overflow:hidden}
+noscript .tx-imagecycle-pi1-images .imagecycle-caption{display:block}
+.tx-imagecycle-pi2-images{display:none}
+noscript .tx-imagecycle-pi2-images{display:block}
+.coin-slider{overflow:hidden;zoom:1;position:relative}
+.coin-slider a{text-decoration:none;outline:none;border:none}
+.cs-buttons{font-size:0px;padding:10px;float:left}
+.cs-buttons a{margin-left:5px;height:10px;width:10px;float:left;border:1px solid #B8C4CF;color:#B8C4CF;text-indent:-1000px}
+.cs-active{background-color:#B8C4CF;color:#FFFFFF}
+.cs-title{width:100%;padding:10px;background-color:#000000;color:#FFFFFF}
+.cs-prev,.cs-prev:visited,.cs-next,.cs-next:visited{background-color:#000000;color:#FFFFFF;padding:0px 10px}
+.tx-imagecycle-pi4-images{display:none}
+noscript .tx-imagecycle-pi4-images{display:block}
+.tx-imagecycle-pi4 .caption{position:relative;margin-top:-75px;margin-left:auto;margin-right:auto;width:150px;text-align:center;padding:5px 10px;background:black;color:white;font-family:sans-serif;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;-khtml-border-radius:5px;-o-border-radius:5px;display:none}
+.tx-imagecycle-pi4 .caption p{margin:0}
+div.tx-flvplayer2-pi1{font-size:x-small}
+div#flvplayer2_middle{text-align:center;margin:1em auto}
+div#flvplayer2_left{text-align:center;margin:0 auto 0 0}
+div#flvplayer2_right{text-align:center;margin:0 0 0 auto}
+table.tx-filelist-pi1-table th{text-align:left;padding-left:3px;padding-right:3px}
+table.tx-filelist-pi1-table td{padding-left:3px;padding-right:3px}
+.tx-filelist-pi1-icon{width:30px}
+td.tx-filelist-pi1-info,td.tx-filelist-pi1-date{font-size:smaller}
+span.tx-filelist-pi1-newFile{font-size:smaller;font-style:italic;color:red}
+div.tx_bib-top_navigation{clear:both;padding:0px;margin:1ex 0px;margin-bottom:1.5ex;border-width:0px;border-bottom:1px solid black}
+div.tx_bib-bottom_navigation{clear:both;padding:1ex 0px;padding-top:0.5ex;margin:1ex 0px;border-width:0px}
+div.tx_bib-navi_year,div.tx_bib-navi_page,div.tx_bib-navi_pref,div.tx_bib-navi_author,div.tx_bib-navi_search{padding:0em;margin:0px;border-width:0px}
+div.tx_bib-navi_search_top,div.tx_bib-navi_author_top,div.tx_bib-navi_year_top,div.tx_bib-navi_page_top,div.tx_bib-navi_pref_top{clear:both;padding:0px;margin:1.5ex 0em;border-width:0px}
+div.tx_bib-navi_search_bottom,div.tx_bib-navi_author_bottom,div.tx_bib-navi_year_bottom,div.tx_bib-navi_page_bottom,div.tx_bib-navi_pref_bottom{clear:both;padding:0px;margin:1.5ex 0em;border-width:0px}
+.tx_bib-inline_form,.tx_bib-year_select_form,.tx_bib-author_select_form,.tx_bib-search_form{display:inline;padding:0px;margin:0px;border-width:0px}
+.tx_bib-navi_search_details,.tx_bib-navi_year_selection,.tx_bib-navi_author_letters,.tx_bib-navi_author_selection,.tx_bib-navi_page_selection{float:left}
+div.tx_bib-float_clear{clear:both;padding:0px;margin:0px;border-width:0px;height:0px;width:0px}
+.tx_bib-year_select_form,.tx_bib-author_select_form{float:right}
+div.tx_bib-navi_extra_row{padding-top:1.5ex}
+form.tx_bib-search_form{display:block}
+.tx_bib-navi_search_details{margin-left:12em}
+.tx_bib-navi_author_selection{margin-left:12em}
+.tx_bib-navi_author_select{float:right}
+form.tx_bib-navi_pref_form{display:block}
+span.tx_bib-navi_current{font-size:larger;font-weight:bold}
+.tx_bib-navi_widget{padding:0px;padding-right:1em}
+.tx_bib-navi_label{padding:0px;margin-right:0.5em}
+div.tx_bib-navi_main_label{font-weight:bold;width:12em;padding:0px;margin:0px;float:left}
+span.tx_bib-navi_separator{padding:0px 0.75em}
+.tx_bib-navi_new{text-align:right;margin:0.5em 0em;padding:0px}
+div.tx_bib-navi_export,div.tx_bib-navi_import,div.tx_bib-navi_statistic{text-align:left;margin:1em 0em;padding:0px;font-size:smaller}
+.tx_bib-export_label,.tx_bib-import_label,.tx_bib-statistic_label{font-weight:bold;margin-right:1em}
+div.tx_bib-list_container{margin:0px;padding:0px;margin-left:12em}
+table.tx_bib-list{float:left;margin:0px;padding:0px;width:100%;border-collapse:collapse}
+table.tx_bib-list th,table.tx_bib-list td{border-width:0px}
+.tx_bib-year_row{padding:0.25em 0.5em;text-align:left}
+.tx_bib-year_row h3{padding:0px;margin:0px}
+.tx_bib-bibtype_row{padding:0.25em 0.5em;text-align:left}
+.tx_bib-bibtype_row h4{padding:0px;margin:0px}
+td.tx_bib-item_even,td.tx_bib-item_odd{padding:0ex 0.3em;padding-bottom:1.5ex;vertical-align:top}
+td.tx_bib-item_even{}
+td.tx_bib-item_odd{}
+td.tx_bib-enum{text-align:right;padding-left:0px;padding-right:0.5em;max-width:4em}
+div.tx_bib-file_url_icon{padding:0px;margin:0px;padding-top:0.25ex;width:32px}
+.tx_bib-button{margin-left:0.5em;margin-right:0.5em}
+.tx_bib-check{}
+.tx_bib-select{}
+.tx_bib-italic{font-style:italic}
+.tx_bib-bold{font-weight:bold}
+.tx_bib-hidden{display:none}
+img.tx_bib-file_icon,img.tx_bib-person_icon{display:inline;padding:0px;margin:0px;border-width:0px}
+.tx_bib-block{display:block;padding:0px;margin:0px;border-width:0px}
+.tx_bib-author{padding:0px;margin:0px}
+.tx_bib-authors{padding:0px;margin:0px}
+.tx_bib-author_high{font-weight:bold}
+.tx_bib-title{font-style:italic}
+.tx_bib-series{font-style:italic}
+.tx_bib-state{font-style:italic}
+.tx_bib-type{font-style:italic}
+.tx_bib-abstract_block,.tx_bib-note_block,.tx_bib-annotation_block,.tx_bib-misc_block,.tx_bib-keywords_block,.tx_bib-tags_block{margin:1ex 0px;padding:0px}
+.tx_bib-url_block{margin:0.5ex 0px}
+div.tx_bib-missing_data{font-weight:bold;background-color:rgb(235,0,0);margin:0px;padding:1ex 1em}
+.tx_bib-warning_box{padding:1ex 1em;margin:1ex 0px;background-color:#eba533;border:4px solid black}
+.tx_bib-manipulator_block{border-width:0px;padding:0px;margin:0px 0px 2px 0.75em;float:right}
+.tx_bib-manip{border-width:0px;padding:0px;margin:0px}
+.tx_bib-edit_icon,.tx_bib-hide_icon,.tx_bib-delete_icon,.tx_bib-new_icon{border-width:0px;padding:0.25em 0.25em}
+table.tx_bib-layout{border-collapse:collapse;border-width:0px;padding:0px;margin:0px}
+table.tx_bib-layout td,table.tx_bib-layout th,table.tx_bib-layout tr{border-width:0px;padding:0px;margin:0px}
+table.tx_bib-single_item{border-collapse:collapse;border-width:0px;padding:0px;margin:0px}
+th.tx_bib-single_label,td.tx_bib-single_value{padding:0.5ex 0px}
+th.tx_bib-single_label{min-width:8em;padding-right:1em;text-align:left;vertical-align:top}
+td.tx_bib-single_value{text-align:left;vertical-align:bottom}
+div.tx_bib-editor{padding:1em;margin:1em 0em;border:1px solid black}
+table.tx_bib-editor_fields{border-collapse:collapse;padding:0px;margin:0.75ex 0em;border-width:0px}
+table.tx_bib-editor_fields th,table.tx_bib-editor_fields td{border-width:0px;padding:0.5ex 0.5em;vertical-align:top;text-align:left}
+table.tx_bib-editor_fields th{min-width:8em}
+.tx_bib-editor h3{font-size:large;border-bottom:1px solid black;padding:0.25em 0em}
+.tx_bib-editor_button{margin:0em 0.5em}
+.tx_bib-editor_button_box{padding:1em 1em;background-color:#eee}
+.tx_bib-box_left{}
+.tx_bib-box_right{float:right}
+select.tx_bib-editor_input,input.tx_bib-editor_input,textarea.tx_bib-editor_input{padding:2px}
+input.tx_bib-editor_input,textarea.tx_bib-editor_input{border:1px solid black}
+table.tx_bib-editor_author{border-collapse:collapse;padding:0px;margin:0px}
+table.tx_bib-editor_author th,table.tx_bib-editor_author td{border-width:0px;min-width:0px;font-size:small}
+table.tx_bib-editor_author th.tx_bib-editor_author_num{padding:0ex 0.75ex 0ex 0ex;text-align:right;vertical-align:middle}
+.tx_bib-editor_hidden{text-decoration:line-through}
+.csc-header-alignment-center{text-align:center}
+.csc-header-alignment-right{text-align:right}
+.csc-header-alignment-left{text-align:left}
+div.csc-textpic-responsive,div.csc-textpic-responsive *{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+div.csc-textpic,div.csc-textpic div.csc-textpic-imagerow,ul.csc-uploads li{overflow:hidden}
+div.csc-textpic .csc-textpic-imagewrap table{border-collapse:collapse;border-spacing:0}
+div.csc-textpic .csc-textpic-imagewrap table tr td{padding:0;vertical-align:top}
+div.csc-textpic .csc-textpic-imagewrap figure,div.csc-textpic figure.csc-textpic-imagewrap{margin:0;display:table}
+figcaption.csc-textpic-caption{display:table-caption}
+.csc-textpic-caption{text-align:left;caption-side:bottom}
+div.csc-textpic-caption-c .csc-textpic-caption,.csc-textpic-imagewrap .csc-textpic-caption-c{text-align:center}
+div.csc-textpic-caption-r .csc-textpic-caption,.csc-textpic-imagewrap .csc-textpic-caption-r{text-align:right}
+div.csc-textpic-caption-l .csc-textpic-caption,.csc-textpic-imagewrap .csc-textpic-caption-l{text-align:left}
+div.csc-textpic div.csc-textpic-imagecolumn{float:left}
+div.csc-textpic-border div.csc-textpic-imagewrap img{border:2px solid black;padding:0px 0px}
+div.csc-textpic .csc-textpic-imagewrap img{border:none;display:block}
+div.csc-textpic .csc-textpic-imagewrap .csc-textpic-image{margin-bottom:15px}
+div.csc-textpic .csc-textpic-imagewrap .csc-textpic-imagerow-last .csc-textpic-image{margin-bottom:0}
+div.csc-textpic-imagecolumn,td.csc-textpic-imagecolumn .csc-textpic-image{margin-right:15px}
+div.csc-textpic-imagecolumn.csc-textpic-lastcol,td.csc-textpic-imagecolumn.csc-textpic-lastcol .csc-textpic-image{margin-right:0}
+div.csc-textpic-intext-left .csc-textpic-imagewrap,div.csc-textpic-intext-left-nowrap .csc-textpic-imagewrap{margin-right:10px}
+div.csc-textpic-intext-right .csc-textpic-imagewrap,div.csc-textpic-intext-right-nowrap .csc-textpic-imagewrap{margin-left:10px}
+div.csc-textpic-center .csc-textpic-imagewrap,div.csc-textpic-center figure.csc-textpic-imagewrap{overflow:hidden}
+div.csc-textpic-center .csc-textpic-center-outer{position:relative;float:right;right:50%}
+div.csc-textpic-center .csc-textpic-center-inner{position:relative;float:right;right:-50%}
+div.csc-textpic-right .csc-textpic-imagewrap{float:right}
+div.csc-textpic-right div.csc-textpic-text{clear:right}
+div.csc-textpic-left .csc-textpic-imagewrap{float:left}
+div.csc-textpic-left div.csc-textpic-text{clear:left}
+div.csc-textpic-intext-left .csc-textpic-imagewrap{float:left}
+div.csc-textpic-intext-right .csc-textpic-imagewrap{float:right}
+div.csc-textpic-intext-right-nowrap .csc-textpic-imagewrap{float:right}
+div.csc-textpic-intext-left-nowrap .csc-textpic-imagewrap{float:left}
+div.csc-textpic div.csc-textpic-imagerow-last,div.csc-textpic div.csc-textpic-imagerow-none div.csc-textpic-last{margin-bottom:0}
+.csc-textpic-intext-left ol,.csc-textpic-intext-left ul{padding-left:40px;overflow:auto}
+ul.csc-uploads{padding:0}
+ul.csc-uploads li{list-style:none outside none;margin:1em 0}
+ul.csc-uploads img{float:left;margin-right:1em;vertical-align:top}
+ul.csc-uploads span{display:block}
+ul.csc-uploads span.csc-uploads-fileName{text-decoration:underline}
+table.contenttable-color-1{background-color:#EDEBF1}
+table.contenttable-color-2{background-color:#F5FFAA}
+table.contenttable-color-240{background-color:black}
+table.contenttable-color-241{background-color:white}
+table.contenttable-color-242{background-color:#333333}
+table.contenttable-color-243{background-color:gray}
+table.contenttable-color-244{background-color:silver}
+.csc-textpic-intext-right-nowrap .csc-textpic-text{margin-right:510px}
+.csc-textpic-intext-left-nowrap .csc-textpic-text{margin-left:510px}
+.csc-space-before-10{margin-top:10px !important}
+.csc-space-after-10{margin-bottom:10px !important}
+.tx-cal-controller .error{border:3px solid red;padding:10px}
+.tx-cal-controller .view-header{text-align:center !important}
+.tx-cal-controller .header-buttons div{background-image:url('http://www.uni-ulm.de/typo3conf/ext/cal/Resources/Public/v2/img/calendar-icon_bg.png');background-position:center bottom;background-repeat:no-repeat;width:40px;height:27px;text-align:center;float:right}
+.tx-cal-controller .header-buttons div a{line-height:29px;font-size:xx-small}
+.tx-cal-controller .previous-button,.tx-cal-controller .next-button{margin-bottom:2px}
+.tx-cal-controller .previous-button{float:left}
+.tx-cal-controller .next-button{float:right}
+.tx-cal-controller .previous-button a,.tx-cal-controller .next-button a{padding:2px 7px 0}
+.tx-cal-controller .timeborder{border-bottom:1px solid #ddd;padding-right:2px}
+.tx-cal-controller .ics_link{width:100%;text-align:center}
+.tx-cal-controller .ics_link a{padding-left:25px;background-image:url('http://www.uni-ulm.de/typo3conf/ext/cal/Resources/Public/v2/img/calendar-share.png');background-repeat:no-repeat;font-size:small}
+.tx-cal-controller .month-weeknums{background-color:#DCF0FA}
+.tx-cal-controller .month-large .month-weeknums{width:2em}
+.tx-cal-controller .month-weekdays{border-bottom:1px solid #AAAAAA;background-color:#EFEFEF}
+.tx-cal-controller .month-small a:link,.tx-cal-controller .monthoff a:visited{color:#000000}
+.tx-cal-controller .month-small th,.tx-cal-controller .month-small td{padding:2px;width:22px;font-size:10px;text-align:right}
+.tx-cal-controller .month-small,.tx-cal-controller .month-medium,.tx-cal-controller .month-large{border-collapse:collapse}
+.tx-cal-controller .month-small td,.tx-cal-controller .month-medium td{border:1px solid #AAAAAA}
+.tx-cal-controller .month-large td{border-left:1px solid #AAAAAA;border-right:1px solid #AAAAAA;vertical-align:top}
+.tx-cal-controller .month-large tr.days td{border:1px solid #AAAAAA}
+.tx-cal-controller .month-large tbody tr:last-child td{border-bottom:1px solid #AAAAAA}
+.tx-cal-controller .month-large .weekday0,.tx-cal-controller .month-large .weekday1,.tx-cal-controller .month-large .weekday2,.tx-cal-controller .month-large .weekday3,.tx-cal-controller .month-large .weekday4,.tx-cal-controller .month-large .weekday5,.tx-cal-controller .month-large .weekday6,.tx-cal-controller .month-large .weekday7,.tx-cal-controller .month-large .currentDay{height:4em;font-size:0.8em}
+.tx-cal-controller .month-small th,.tx-cal-controller .month-medium th,.tx-cal-controller .month-large th{background-color:#DCF0FA;text-align:center;font-weight:normal;font-size:small}
+.tx-cal-controller .month-large .weeknum{width:22px}
+.tx-cal-controller .month-large .daylink{font-weight:bold}
+.tx-cal-controller .month-large .day{height:4em;vertical-align:top;text-align:left}
+.tx-cal-controller .month-large div.vevent,.tx-cal-controller .month-large div.vtodo{overflow:hidden;white-space:nowrap}
+.tx-cal-controller .month-large .dayNum,.tx-cal-controller .month-medium .dayNum{border-bottom:none;background-color:#E8EEF7;text-align:right;font-size:xx-small;line-height:12px}
+.tx-cal-controller .monthWeekend{background-color:#FFFFEF}
+.tx-cal-controller .monthCurrentWeek{}
+.tx-cal-controller .month-small th a:link,.tx-cal-controller .month-small th a:visited,.tx-cal-controller .month-medium th a:link,.tx-cal-controller .month-medium th a:visited,.tx-cal-controller .month-large th a:link,.tx-cal-controller .month-large th a:visited{font-weight:bold;color:#000000}
+.tx-cal-controller .monthView .currentDay{background:#FFF7D7 none repeat scroll 0% !important;border-color:#556677 rgb(170,187,204) rgb(170,187,204) rgb(85,102,119) !important;border-style:solid !important;border-width:1px !important}
+.tx-cal-controller .weekday0,.tx-cal-controller .weekday6{background-color:#F8F9F8}
+.tx-cal-controller .month-medium{margin:1em auto 2em;border-collapse:collapse;border-spacing:0px;width:80%}
+.tx-cal-controller .month-medium th,.tx-cal-controller .month-medium td{height:2em;width:5%;text-align:center;vertical-align:middle}
+.tx-cal-controller .month-medium td{border:1px solid #A1A5A9}
+#month-footer{text-align:center;margin-top:10px}
+.tx-cal-controller .yearview h1{text-align:center}
+.tx-cal-controller .year-table,.tx-cal-controller .month-large{clear:both;width:100%;background-color:#FFFFFF;table-layout:fixed}
+.tx-cal-controller .year-table .year-month{vertical-align:top;text-align:center}
+.tx-cal-controller .year-table .year-month+.year-month+.year-month{padding-right:0px}
+.tx-cal-controller .sidebar{border:1px solid #CCCCCC;border-collapse:collapse;float:left;padding:5px;margin-left:5px}
+.tx-cal-controller .month-sidebar h4{border-top:3px solid #CCCCCC;margin-top:5px;padding-top:6px}
+.tx-cal-controller .sidebar h4:first-child{border:none;margin-top:0px;line-height:1.8em;padding-top:0px}
+.tx-cal-controller .sidebar .button{padding:1px 4px;background:#EEEEEE none repeat scroll 0 0;border:1px solid #CCCCCC;cursor:pointer;margin-left:3px;vertical-align:sub;float:right}
+.tx-cal-controller .sidebar .category-submit{margin-left:11em}
+.tx-cal-controller .search-box{background:transparent url('http://www.uni-ulm.de/typo3conf/ext/cal/Resources/Public/v2/img/bg_searchInput.gif') no-repeat scroll 0 0;border:0 none;border-right:1px solid #6C6761;color:#515151;padding:1px 0 5px 20px;width:110px}
+.tx-cal-controller .vevent{cursor:default;color:#fff;-moz-user-select:none}
+.tx-cal-controller .vevent .freq{vertical-align:text-bottom}
+.tx-cal-controller .vevent dt{margin-top:-1px;font:bold 80%/normal Verdana,sans-serif;white-space:nowrap;overflow:hidden;padding:0 0 1px 0;text-align:left}
+.tx-cal-controller .vevent dl{margin:0;padding:0 0 1px 0;border-left:1px solid;border-right:1px solid;overflow:hidden}
+.tx-cal-controller .vevent dd{margin:0;overflow:hidden;padding:0 1px;font:100%/1.3em Verdana,sans-serif;text-align:left;word-wrap:break-word}
+.tx-cal-controller .gridcontainertop .vevent{width:100%}
+.tx-cal-controller .weekview .vevent,.tx-cal-controller .dayview .vevent{-moz-border-radius:3px;position:absolute}
+.tx-cal-controller .weekview .allday .vevent,.tx-cal-controller .dayview .allday .vevent{position:relative}
+.tx-cal-controller .month-large .vevent,.tx-cal-controller .weekview .wk-allday .vevent,.tx-cal-controller .dayview .wk-allday .vevent{position:inherit}
+.tx-cal-controller .month-large .vevent{line-height:normal;margin:1px;text-align:left}
+.tx-cal-controller .month-large div.vevent a:link span.popup,.tx-cal-controller .month-large div.vevent a:visited span.popup,.tx-cal-controller .month-medium span.popup{display:none}
+.tx-cal-controller .month-large div.vevent a:hover span.popup,.tx-cal-controller .month-medium .dayNum:hover span.popup{position:absolute;margin:15px 0px 0px 20px;background-color:#F5F5DC;max-width:220px;border:1px solid #C0C0C0;font:normal 10px/12px verdana;color:#000;text-align:left;display:block}
+.tx-cal-controller .vtodo{cursor:default;color:#fff;-moz-user-select:none}
+.tx-cal-controller .vtodo .freq{vertical-align:text-bottom}
+.tx-cal-controller .vtodo dt{margin-top:-1px;font:bold 80%/normal Verdana,sans-serif;white-space:nowrap;overflow:hidden;padding:0 0 1px 0;text-align:left}
+.tx-cal-controller .vtodo dl{margin:0;padding:0 0 1px 0;border-left:1px solid;border-right:1px solid;overflow:hidden}
+.tx-cal-controller .vtodo dd{margin:0;overflow:hidden;padding:0 1px;font:100%/1.3em Verdana,sans-serif;text-align:left;word-wrap:break-word}
+.tx-cal-controller .gridcontainertop .vtodo{width:100%}
+.tx-cal-controller .weekview .vtodo,.tx-cal-controller .dayview .vtodo{-moz-border-radius:3px;position:absolute}
+.tx-cal-controller .weekview .allday .vtodo,.tx-cal-controller .dayview .allday .vtodo{position:relative}
+.tx-cal-controller .month-large .vtodo,.tx-cal-controller .weekview .wk-allday .vtodo,.tx-cal-controller .dayview .wk-allday .vtodo{position:inherit}
+.tx-cal-controller .month-large .vtodo{line-height:normal;margin:1px;text-align:left}
+.tx-cal-controller .month-large div.vtodo a:link span.popup,.tx-cal-controller .month-large div.vtodo a:visited span.popup,.tx-cal-controller .month-medium span.popup{display:none}
+.tx-cal-controller .month-large div.vtodo a:hover span.popup,.tx-cal-controller .month-medium .dayNum:hover span.popup{position:absolute;margin:15px 0px 0px 20px;background-color:#F5F5DC;max-width:220px;border:1px solid #C0C0C0;font:normal 10px/12px verdana;color:#000;text-align:left;display:block}
+.tx-cal-controller .dayview,.tx-cal-controller .weekview{border-left:5px solid #DCF0FA;clear:both}
+.tx-cal-controller .gridcontainer{background:#f8f8f8;position:relative;-webkit-user-select:none;-khtml-user-select:none;overflow-y:visible;height:411px;border-top:10px solid #DCF0FA}
+.tx-cal-controller .gridcontainertop{table-layout:fixed;width:100%;background-color:#DCF0FA;overflow:hidden;font-size:11px;line-height:14px;border-bottom:10px solid #DCF0FA}
+.tx-cal-controller .gridcontainertop .allday{table-layout:fixed;width:100%}
+.tx-cal-controller .gridcontainertop td{height:20px;vertical-align:top;background-color:#FFFFFF}
+.tx-cal-controller .gridcontainertop .daynames th{text-align:center}
+.tx-cal-controller .gridcontainertop .daynames th.dummy{width:15px}
+.tx-cal-controller .gridcontainertop .daynames td{width:40px;background-color:#DCF0FA}
+.tx-cal-controller .scrolltime{position:relative;overflow-y:scroll;overflow-x:hidden;border-top:1px solid #DCF0FA;border-left:0 none;border-bottom:1px solid #DCF0FA;padding:0;font-size:11px;line-height:normal;height:370px}
+.tx-cal-controller .scrolltime .timetable{background-color:#fff;table-layout:fixed;width:100%;margin-top:-1px;border-bottom:1px solid #bcf}
+.tx-cal-controller .scrolltime .timetable .width{width:40px}
+.tx-cal-controller .scrolltime .timetable .wrapper{position:relative;margin-left:1px;top:3px}
+.tx-cal-controller .scrolltime .timetable .wrapper .hours{position:absolute;width:100%}
+.tx-cal-controller .scrolltime .timetable .wrapper .hours .cell{height:42px}
+.tx-cal-controller .scrolltime .timetable .wrapper .hours .cell .line{border-bottom:1px dotted #ddd;border-top:1px solid #ddd;font-size:1px;height:20px;margin-bottom:20px}
+.tx-cal-controller .scrolltime .timetable .times{background-color:#f6f9fc;color:#666;padding:1px 0 0 0;text-align:right;vertical-align:top}
+.tx-cal-controller .scrolltime .timetable .times div{height:42px}
+.tx-cal-controller .scrolltime .timetable .times div.timeborder{height:41px}
+.tx-cal-controller .scrolltime .timetable .event-column{border-left:1px solid #ddd;vertical-align:top}
+.tx-cal-controller .scrolltime .timetable .event-column .wrapper{position:relative;cursor:default;position:relative;margin-right:10px}
+.tx-cal-controller div.default_catheader dl,.tx-cal-controller div.default_catheader_allday,.tx-cal-controller div.yellow_catheader dl,.tx-cal-controller div.yellow_catheader_allday,.tx-cal-controller div.orange_catheader dl,.tx-cal-controller div.orange_catheader_allday,.tx-cal-controller div.red_catheader dl,.tx-cal-controller div.red_catheader_allday,.tx-cal-controller div.pink_catheader dl,.tx-cal-controller div.pink_catheader_allday,.tx-cal-controller div.blue_catheader dl,.tx-cal-controller div.blue_catheader_allday,.tx-cal-controller div.green_catheader dl,.tx-cal-controller div.green_catheader_allday,.tx-cal-controller div.brown_catheader dl,.tx-cal-controller div.brown_catheader_allday,.tx-cal-controller div.grey_catheader dl,.tx-cal-controller div.grey_catheader_allday,.tx-cal-controller div.fnb_header dl,.tx-cal-controller div.fnb_header_allday{-moz-border-radius:3px;padding-left:0.2em;opacity:0.9}
+.tx-cal-controller div.default_catheader dt,.tx-cal-controller div.yellow_catheader dt,.tx-cal-controller div.orange_catheader dt,.tx-cal-controller div.red_catheader dt,.tx-cal-controller div.pink_catheader dt,.tx-cal-controller div.blue_catheader dt,.tx-cal-controller div.green_catheader dt,.tx-cal-controller div.brown_catheader dt,.tx-cal-controller div.grey_catheader dt,.tx-cal-controller div.fnb_header dt{font-size:xx-small}
+.tx-cal-controller div.default_catheader dd,.tx-cal-controller div.yellow_catheader dd,.tx-cal-controller div.orange_catheader dd,.tx-cal-controller div.red_catheader dd,.tx-cal-controller div.pink_catheader dd,.tx-cal-controller div.blue_catheader dd,.tx-cal-controller div.green_catheader dd,.tx-cal-controller div.brown_catheader dd,.tx-cal-controller div.grey_catheader dd,.tx-cal-controller div.fnb_header{white-space:nowrap}
+.tx-cal-controller .alldays .vevent .default_catheader_text,.tx-cal-controller .alldays .vevent .blue_catheader_text,.tx-cal-controller .alldays .vtodo .default_catheader_text,.tx-cal-controller .alldays .vtodo .blue_catheader_text,.tx-cal-controller .alldays .vevent .yellow_catheader_text,.tx-cal-controller .alldays .vtodo .yellow_catheader_text,.tx-cal-controller .alldays .vevent .orange_catheader_text,.tx-cal-controller .alldays .vtodo .orange_catheader_text,.tx-cal-controller .alldays .vevent .red_catheader_text,.tx-cal-controller .alldays .vtodo .red_catheader_text,.tx-cal-controller .alldays .vevent .pink_catheader_text,.tx-cal-controller .alldays .vtodo .pink_catheader_text,.tx-cal-controller .alldays .vevent .green_catheader_text,.tx-cal-controller .alldays .vtodo .green_catheader_text,.tx-cal-controller .alldays .vevent .brown_catheader_text,.tx-cal-controller .alldays .vtodo .brown_catheader_text,.tx-cal-controller .alldays .vevent .grey_catheader_text,.tx-cal-controller .alldays .vtodo .grey_catheader_text,.tx-cal-controller .alldays .vevent .fnb_header_text,.tx-cal-controller .alldays .vtodo .fnb_header_text,.tx-cal-controller .allday.vevent span:first-child,.tx-cal-controller .allday.vtodo span:first-child{color:#FFFFFF}
+.tx-cal-controller div.default_catheader dl,.tx-cal-controller div.default_catheader_allday,.tx-cal-controller div.blue_catheader dl,.tx-cal-controller div.blue_catheader_allday{border:1px solid #2952A3;border-left:4px solid #2952A3;background-color:#668CD9;color:#FFFFFF}
+.tx-cal-controller .default_catheader_allday a .summary,.tx-cal-controller .default_catheader_allday a:visited .summary,.tx-cal-controller .default_catheader dd a,.tx-cal-controller .default_catheader dd a:visited,.tx-cal-controller .blue_catheader_allday a .summary,.tx-cal-controller .blue_catheader_allday a:visited .summary,.tx-cal-controller .blue_catheader dd a,.tx-cal-controller .blue_catheader dd a:visited{color:#FFFFFF !important}
+.tx-cal-controller .vevent .default_catheader_text,.tx-cal-controller .vevent .blue_catheader_text,.tx-cal-controller .vtodo .default_catheader_text,.tx-cal-controller .vtodo .blue_catheader_text{color:#668CD9}
+.tx-cal-controller div.green_catheader dl,.tx-cal-controller div.green_catheader_allday{border:1px solid #0D7813;border-left:4px solid #0D7813;background-color:#4CB052;color:#FFFFFF}
+.tx-cal-controller .green_catheader_allday a .summary,.tx-cal-controller .green_catheader_allday a:visited .summary,.tx-cal-controller .green_catheader dd a,.tx-cal-controller .green_catheader dd a:visited{color:#FFFFFF !important}
+.tx-cal-controller .vevent .green_catheader_text,.tx-cal-controller .vevent .green_catheader_text a,.tx-cal-controller .vtodo .green_catheader_text,.tx-cal-controller .vtodo .green_catheader_text a{color:#4CB052}
+.tx-cal-controller div.orange_catheader dl,.tx-cal-controller div.orange_catheader_allday{border:1px solid #BE6D00;border-left:4px solid #BE6D00;background-color:#F2A640;color:#FFFFFF}
+.tx-cal-controller .orange_catheader_allday a .summary,.tx-cal-controller .orange_catheader_allday a:visited .summary,.tx-cal-controller .orange_catheader dd a,.tx-cal-controller .orange_catheader dd a:visited{color:#FFFFFF !important}
+.tx-cal-controller .vevent .orange_catheader_text,.tx-cal-controller .vevent .orange_catheader_text a,.tx-cal-controller .vtodo .orange_catheader_text,.tx-cal-controller .vtodo .orange_catheader_text a{color:#F2A640}
+.tx-cal-controller div.pink_catheader dl,.tx-cal-controller div.pink_catheader_allday{border:1px solid #B1365F;border-left:4px solid #B1365F;background-color:#E67399;color:#FFFFFF}
+.tx-cal-controller .pink_catheader_allday a .summary,.tx-cal-controller .pink_catheader_allday a:visited .summary,.tx-cal-controller .pink_catheader dd a,.tx-cal-controller .pink_catheader dd a:visited{color:#FFFFFF !important}
+.tx-cal-controller .vevent .pink_catheader_text,.tx-cal-controller .vevent .pink_catheader_text a,.tx-cal-controller .vtodo .pink_catheader_text,.tx-cal-controller .vtodo .pink_catheader_text a{color:#E67399}
+.tx-cal-controller div.red_catheader dl,.tx-cal-controller div.red_catheader_allday{border:1px solid #A32929;border-left:4px solid #A32929;background-color:#D96666;color:#FFFFFF}
+.tx-cal-controller .red_catheader_allday a .summary,.tx-cal-controller .red_catheader_allday a:visited .summary,.tx-cal-controller .red_catheader dd a,.tx-cal-controller .red_catheader dd a:visited{color:#FFFFFF !important}
+.tx-cal-controller .vevent .red_catheader_text,.tx-cal-controller .vevent .red_catheader_text a
+.tx-cal-controller .vtodo .red_catheader_text,.tx-cal-controller .vtodo .red_catheader_text a{color:#D96666}
+.tx-cal-controller div.yellow_catheader dl,.tx-cal-controller div.yellow_catheader_allday{border:1px solid #AB8B00;border-left:4px solid #AB8B00;background-color:#E0C240;color:#FFFFFF}
+.tx-cal-controller .yellow_catheader_allday a .summary,.tx-cal-controller .yellow_catheader_allday a:visited .summary,.tx-cal-controller .yellow_catheader dd a,.tx-cal-controller .yellow_catheader dd a:visited{color:#FFFFFF !important}
+.tx-cal-controller .vevent .yellow_catheader_text,.tx-cal-controller .vevent .yellow_catheader_text a,.tx-cal-controller .vtodo .yellow_catheader_text,.tx-cal-controller .vtodo .yellow_catheader_text a{color:#E0C240}
+.tx-cal-controller div.grey_catheader dl,.tx-cal-controller div.grey_catheader_allday{border:1px solid #4E5D6C;border-left:4px solid #4E5D6C;background-color:#8997A5;color:#FFFFFF}
+.tx-cal-controller .grey_catheader_allday a .summary,.tx-cal-controller .grey_catheader_allday a:visited .summary,.tx-cal-controller .grey_catheader dd a,.tx-cal-controller .grey_catheader dd a:visited{color:#FFFFFF !important}
+.tx-cal-controller .vevent .grey_catheader_text,.tx-cal-controller .vevent .grey_catheader_text a,.tx-cal-controller .vtodo .grey_catheader_text,.tx-cal-controller .vtodo .grey_catheader_text a{color:#8997A5}
+.tx-cal-controller div.fnb_header dl,.tx-cal-controller div.fnb_header_allday{border:1px solid #4E5D6C;border-left:4px solid #4E5D6C;background-color:#8997A5;color:#FFFFFF}
+.tx-cal-controller .fnb_header_allday a .summary,.tx-cal-controller .fnb_header_allday a:visited .summary,.tx-cal-controller .fnb_header dd a,.tx-cal-controller .fnb_header dd a:visited{color:#FFFFFF !important}
+.tx-cal-controller .vevent .fnb_header_text,.tx-cal-controller .vevent .fnb_header_text a,.tx-cal-controller .vtodo .fnb_header_text,.tx-cal-controller .vtodo .fnb_header_text a{color:#8997A5}
+.tx-cal-controller .even{background-color:#FAFAFA}
+.tx-cal-controller .list-view .vevent,.tx-cal-controller .list-view .vtodo{color:#000000}
+.tx-cal-controller .list-view .vevent .dtstart-container,.tx-cal-controller .list-view .vtodo .dtstart-container{float:left;margin-right:1em;text-align:right;width:12em}
+.tx-cal-controller .list-view .vevent .summary,.tx-cal-controller .list-view .vtodo .summary{}
+.tx-cal-controller h1,.tx-cal-controller .found,.tx-cal-controller .pagebrowser{text-align:center}
+.tx-cal-controller .cal_required{color:red}
+.tx-cal-controller .constrain{color:red;font-weight:bold}
+#editorWrap1 textarea{display:block}
+.tx-cal-controller .create-edit-event .tabcontent label{display:inline-block;vertical-align:top;width:6em}
+.tx-cal-controller .basictab ul{margin:4px;padding:3px 0;margin-left:0;font:bold 12px Verdana;border-bottom:1px solid gray;list-style-type:none;text-align:left;
+}
+.tx-cal-controller .basictab li{display:inline;margin:0}
+.tx-cal-controller .basictab li a{text-decoration:none;padding:3px 7px;margin-right:3px;border:1px solid gray;border-bottom:none;background-color:#6699CC;color:#FFFFFF}
+.tx-cal-controller .basictab li a:visited{color:#2d2b2b}
+.tx-cal-controller .basictab li a:hover,.tx-cal-controller .basictab li a.current{background-color:#557CA3;color:#FFFFFF}
+.tx-cal-controller .basictab li a:active{color:#000000}
+.tx-cal-controller .tabcontainer{clear:left;width:95%;
+height:1.5em;
+}
+.tx-cal-controller .tabcontent{display:none}
+#tx_cal_controller_create_element input[type="text"]:not([size]){width:6em;
+}
+#tx_cal_controller_create_element .treelevel0{display:block;margin-left:70px}
+#tx_cal_controller_create_element p{margin:7px}
+#tx_cal_controller_create_element .notify,#tx_cal_controller_create_element .shared,#tx_cal_controller_create_element .exception{display:block;margin-left:140px}
+#allday{width:10px}
+#until label,#by_day label,#by_monthday label,#by_month label{margin-left:50px}
+#by_month label,#by_monthday label{width:230px}
+.tx-cal-controller .reminderOffset{width:2em !important}
+.tx-cal-controller .tabcontent table{margin:2em 0}
+.tx-cal-controller .tabcontent table>tbody>tr>td{vertical-align:top;padding-right:1em;padding-bottom:1em;border-bottom:1px solid #999999}
+.tx-cal-controller .tabcontent table>tbody>tr>td label{width:6em;margin-bottom:1em}
+.tx-cal-controller .tabcontent table>tbody>tr>td label>input[type='text']{width:20em;margin-bottom:1em}
+@media all{
+*{margin:0;padding:0}
+option{padding-left:0.4em}
+html{height:100%}
+body{min-height:101%;
+font-size:100.01%;
+position:relative;
+color:#000;background:#fff;text-align:left}
+fieldset,img{border:0}
+select,input,textarea{font-size:99%}
+#header{position:relative}
+#topnav{position:absolute;top:10px;right:10px;color:#fff;background:transparent;text-align:right;
+}
+#nav{clear:both;width:auto}
+#main{clear:both;width:auto}
+#col1{float:left;width:200px;
+}
+#col2{float:right;width:200px;
+}
+#col3{width:auto;margin-left:200px;
+margin-right:200px;
+}
+#footer{clear:both}
+#col1{z-index:3}
+#col2{z-index:5}
+#col3{z-index:1}
+#col1_content{z-index:4}
+#col2_content{z-index:6}
+#col3_content{z-index:2}
+#col1_content,#col2_content,#col3_content{position:relative}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+.clearfix{display:block}
+.floatbox{overflow:hidden}
+#ie_clearing{display:none}
+hr.clear_columns{clear:both;float:left;content:".";display:block;height:0;line-height:0px;visibility:hidden;border:0;padding:0;margin:-1.1em 0 0 0;
+}
+ul,ol,dl{margin:0 0 1em 1em}
+li{margin-left:1.5em;line-height:1.3em}
+dt{font-weight:bold}
+dd{margin:0 0 1em 2em}
+blockquote,cite{margin:0 0 1em 1.5em;font-size:0.93em;width:auto}
+.subcolumns{width:100%;padding:0 1px 0 1px;margin:0 -1px 0 -1px;overflow:hidden}
+.c50l,.c25l,.c33l,.c38l,.c66l,.c75l,.c62l,.c100l{float:left;overflow:hidden}
+.c50r,.c25r,.c33r,.c38r,.c66r,.c75r,.c62r{float:right;overflow:hidden}
+.c25l,.c25r{width:24.999%}
+.c33l,.c33r{width:33.333%}
+.c50l,.c50r{width:49.999%}
+.c66l,.c66r{width:66.666%}
+.c75l,.c75r{width:74.999%}
+.c38l,.c38r{width:38.196%}
+.c62l,.c62r{width:61.803%}
+.c100l{width:99.999%}
+.subc{padding:0 0.5em 0 0.5em;overflow:hidden}
+.subcl{padding:0 1em 0 0;overflow:hidden}
+.subcr{padding:0 0 0 1em;overflow:hidden}
+}
+@media screen,print{.skip{position:absolute;left:-1000em;width:20em}
+}
+@media all{
+body{color:#000;font-size:83.33%;font-family:'Trebuchet MS',Verdana,Helvetica,Arial,sans-serif}
+h1,h2,h3,h4{font-family:'Lucida Grande',Verdana,Arial,Sans-Serif;display:block;font-weight:bold}
+h1{}
+h2{}
+h3{}
+h4{padding:1em 0 0.5em 0}
+#teaser h1{font-size:1.2em;border:0}
+p,ul,dd,dt{line-height:1.5em}
+p{line-height:1.5em;margin:0 0 1em 0}
+strong,b{font-weight:bold}
+em,i{font-style:italic}
+pre,code{font-family:"Courier New",Courier,monospace}
+address{font-style:normal;line-height:1.5em;margin:0 0 1em 0}
+hr{color:#fff;background:transparent;margin:0.5em 0 0.5em 0;padding:0 0 0 0;border:0;border-bottom:1px #eee solid}
+acronym,abbr{border-bottom:1px dashed #c00;cursor:help}
+ul{margin-bottom:1em}
+img.float_left{float:left;margin-right:1em;margin-bottom:0.15em;border:0}
+img.float_right{float:right;margin-left:1em;margin-bottom:0.15em;border:0}
+img.center{text-align:center;background:#fff;padding:4px;border:1px #ddd solid}
+a,a em.file{color:#1e6289;text-decoration:none}
+a:hover{background-color:#eef;text-decoration:underline}
+#topnav a{color:#1a2b3c;background:transparent;text-decoration:none}
+#topnav a:hover{text-decoration:underline;background-color:transparent}
+#footer a{color:#669}
+#footer a:hover{background-color:#eef}
+#lblock div.csc-default a{display:inline}
+#main a.imagelink{padding-left:0;background:transparent}
+div.indent{padding-left:1em}
+form{overflow:hidden}
+input,textarea{width:auto;font:1em Verdana,Arial,Helvetica,Sans-Serif;border:1px #ccc solid;background:#fab8b8;padding:3px;color:#777}
+input[type=text]:focus,input[type=password]:focus,textarea:focus{background:#fab8b8;color:#333;border-color:#666}
+p.demo{background-color:#fee;border:1px #fcc solid;padding:6px;margin-bottom:0.5em}
+p.navlink{background-color:#f4f8f4;border:1px #aca dotted;padding:6px;margin-bottom:0.5em}
+p.navlink a{color:#353}
+p.navlink a:hover{font-weight:bold;background:transparent}
+blockquote{color:#222;background:#f8f8f8;border:1px #ddd solid;border-left:8px #ddd solid;padding:1em 1em 0 1em;margin:0 0 1em 1em}
+ul.linklist li{margin:0 0 1em 0}
+em.mono,em.file,em.directory{font-family:"Courier New",Courier,monospace;font-style:normal}
+em.mono{padding:0 0.3em 0 0.3em;background:#f0f0f4;border:1px #ccd solid}
+em.file{padding:0 0 0 14px;color:#008;background:transparent url('http://www.uni-ulm.de/fileadmin/img/icons/file.gif') no-repeat left}
+em.directory{padding:0 0 0 15px;color:#008;background:transparent url('http://www.uni-ulm.de/fileadmin/img/icons/dir.gif') no-repeat left}
+pre,code,p.code{display:block;margin:0 0 1em 1em;padding:0.5em;color:#000;background:#f0f0f4;border:1px #91acbc solid;border-left:8px #91acbc solid}
+code.css{background-image:url('http://www.uni-ulm.de/fileadmin/img/bg_css.gif');background-repeat:no-repeat;background-position:top right}
+code.xhtml{background-image:url('http://www.uni-ulm.de/fileadmin/img/bg_xhtml.gif');background-repeat:no-repeat;background-position:top right}
+code.typoscript{background-image:url('http://www.uni-ulm.de/fileadmin/img/bg_ts.gif');background-repeat:no-repeat;background-position:top right}
+table.bugs{margin-bottom:1em;margin-top:0.5em;width:100%}
+table.bugs th{background:#fff;color:#222;padding:0.5em;text-align:center;border-bottom:1px #ccd solid;border-right:1px #ccd solid}
+table.bugs td{background:#f0f0f4;color:#222;padding:0.5em;text-align:center;border-bottom:1px #ccd solid;border-right:1px #ccd solid}
+a.dl_link{display:block;padding:0;margin:0.5em auto 0 auto;background-image:none}
+a.dl_link:hover{text-decoration:none;background-color:transparent}
+}
+dd.csc-textpic-caption{font-style:italic;font-size:0.9em;background-color:#E0E7F5;padding:0}
+div.langMenu{padding:0}
+div.langMenu a:hover{background:transparent}
+div.langMenu img.flag{margin-top:4px;padding-right:7px}
+@media screen,print{#col1_content dfn,#col1_content .hidden{position:absolute;left:-1000em;width:20em}
+.tx-dropdownsitemap-pi1 A{font-weight:bold}
+.tx-dropdownsitemap-pi1 LI.open OL{display:block}
+.tx-dropdownsitemap-pi1 LI.closed OL{display:none}
+.tx-dropdownsitemap-pi1 LI.open UL{display:block}
+.tx-dropdownsitemap-pi1 LI.closed UL{display:none}
+.tx-dropdownsitemap-pi1 DIV{border:solid 1px #ccd;background:#F0F0F4;padding:2px;margin-bottom:5px}
+.tx-dropdownsitemap-pi1 DIV.level_2{background:#FFFFFF}
+.tx-dropdownsitemap-pi1 DIV.level_2 A{font-weight:normal}
+.tx-dropdownsitemap-pi1 DIV.level_3{background:#F0F0F4}
+.tx-dropdownsitemap-pi1 DIV.level_4{background:#FFFFFF}
+.tx-dropdownsitemap-pi1 DIV.level_5{background:#F0F0F4}
+.tx-dropdownsitemap-pi1 DIV.expAll{text-align:center;border:solid 1px #ccd;background:#F0F0F4}
+.tx-dropdownsitemap-pi1 img{margin-right:0.5em}
+.tx-dropdownsitemap-pi1 a:hover{background:transparent}
+}
+@media all,screen{
+#nav_main{width:auto;overflow:hidden;background:transparent;border-left:1px #91acbc solid;border-right:0px #fff solid}
+#nav_main ul{display:block;margin:0;padding:0;font-size:1.0em;line-height:1em}
+#nav_main ul li{float:left;margin:0;padding:0;font-size:1.0em;line-height:0.7em;list-style-type:none;border-left:0px #fff solid;border-right:1px #91acbc solid}
+#nav_main ul li#first{border-right:1px #91acbc solid;border-left:none;padding:0.5em 0em 0.5em 0em;width:48px}
+#nav_main ul li#last{border-left:1px #91acbc solid;border-right:none;padding:0.5em 0em 0.5em 0em}
+#nav_main ul li a,#header ul li a{display:block;width:auto;font-size:1.0em;background:transparent;text-decoration:none;color:#000;margin:0;padding:0.5em 0.6em 0.5em 0.6em}
+#nav_main ul li a:hover{background:#eee;color:#333;text-decoration:none}
+#nav_main ul li#current{border-left:0px #333 solid;border-right:1px #91acbc solid}
+#nav_main ul li#current a,#nav_main ul li#current a:hover{color:#91acbc;background:transparent;text-decoration:none}
+}
+@media all{
+#col1_content h3{padding:0.25em 0 0.25em 1.4em;font-size:1.1em;font-weight:bold;margin:0 0 0.4em 0;
+border-bottom:5px #fff solid}
+#col1_content h3 img{margin-right:0.7em}
+.mainMenu{width:100%;overflow:hidden;color:#222;margin:0;padding:0}
+.mainMenu img{margin:0 0.7em 0 0;
+}
+.mainMenu ul{width:100%;overflow:hidden;margin:0;list-style-type:none}
+.mainMenu ul a{display:block;text-decoration:none}
+.mainMenu ul li{float:left;width:100%;margin:0;padding:0;text-indent:-1.6em}
+.mainMenu ul li div#subcurrent{display:block;width:91%;padding:3px 0px 3px 9%}
+.mainMenu ul li ul li div#subcurrent{display:block;width:84%;padding:3px 0px 3px 16%}
+.mainMenu ul li ul li ul li div#subcurrent{display:block;width:77%;padding:3px 0px 3px 23%}
+.mainMenu ul li a{width:91%;padding:3px 0px 3px 9%}
+.mainMenu ul li ul{list-style-type:none;margin:0 0 -1px 0;padding:0}
+.mainMenu ul li ul li{float:left;width:100%;margin:0;padding:0}
+.mainMenu ul li ul li a{width:84%;padding:3px 0px 3px 16%}
+.mainMenu ul li ul li ul{list-style-type:none;margin:0;padding:0}
+.mainMenu ul li ul li ul li{float:left;width:100%;margin:0;padding:0}
+.mainMenu ul li ul li ul li a{width:77%;padding:3px 0px 3px 23%}
+}
+@media all{
+body{background:#e5ebee;
+padding:10px}
+#page{border:1px #c6d4de solid;border-right:2px #c6d4de solid;border-bottom:2px #c6d4de solid;background:#fff}
+#page_margins{border:0px #889 solid;min-width:60em;max-width:85em;margin:auto}
+#header{position:relative;height:7em;color:#321;background:#fff}
+#header img{position:absolute;top:25px;right:25px}
+#header h1{position:absolute;top:2em;left:2em;padding-left:0;padding-top:0;color:#000;text-decoration:none;font-size:108%;border:none;font-weight:normal}
+#sonderlogo{position:absolute;top:0;left:0}
+.sonderlogo2{position:absolute;top:-10px;right:300px}
+.nugi{position:absolute;top:-10px;right:25px}
+#sonderlogo img{position:relative;top:0px;left:0px;font-size:100%;height:100%}
+#header #nav_main{position:absolute;top:4.6em;left:1.4em;margin-left:0;margin-top:0}
+#header #nav_main a{color:#000}
+.c100l .subcl{padding:0}
+#main{background:#fff;padding-top:0}
+#col1{width:21em}
+#col1_content{margin-left:2em;margin-right:1em;color:#000;background:inherit}
+#col2{width:21em}
+#col2_content{margin-left:1em;margin-right:2em;color:#131313}
+#col3{margin-left:21em;margin-right:21em;
+}
+#col3_content{margin-left:1em;margin-right:2em;color:#131313}
+#col3_innen{border-left:none;border-right:none}
+#teaser{margin:0;padding:0;background:#D5D0BA;color:#765}
+#nav{background-color:#c4c0b4;color:#fff}
+#nav div{float:left;width:auto;margin:0 0 0 0;
+}
+#nav .block1,#nav .block2,#nav .block3{margin:0.1em 0 0.1em 0.15em;padding:0em 0em 0em 0em;font-size:1em}
+#nav .block2{margin-left:0;margin-right:0}
+#nav .block1 a{color:#fff}
+#nav .block1 a:hover{background:transparent}
+#nav .block3{width:21em;margin-left:0;margin-right:0}
+#nav .suche{float:left;padding-top:0.1em;padding-right:0.5em;font-size:0.82em;margin-left:-0.3em}
+#nav .suche a{color:#fff}
+#nav .suche a:hover{background:transparent}
+#nav .home{float:left;padding-left:0.1em;padding-top:0.4em;margin-right:1em}
+#nav .home img{width:auto}
+#nav .langMenu{float:left;padding-top:0.4em;padding-right:0.5em;font-size:0.98em}
+#nav .langMenu a{font-weight:bold}
+#thema{clear:both;width:auto}
+#thema{margin:0;padding:0;
+min-height:2em}
+#thema div{float:left;width:auto;margin:0;padding:0;overflow:hidden}
+#thema .themenbild1{width:50%;height:auto;position:relative;padding:0;margin:0;z-index:4}
+#thema .themenbild2{float:left;width:49.99%;position:relative;overflow:hidden;z-index:3}
+#thema .themenbild1 DIV.csc-textpic DIV.csc-textpic-imagewrap .csc-textpic-image{margin:0}
+#thema .themenbild2 DIV.csc-textpic DIV.csc-textpic-imagewrap .csc-textpic-image{margin:0}
+#thema DIV.csc-textpic DIV.csc-textpic-single-image IMG{margin-bottom:0}
+#breadcrumb,#breadcrumb a{color:#fff;text-decoration:none;font-size:95%}
+#breadcrumb a{font-size:100%}
+#breadcrumb{padding-left:2em;padding-top:0.6em;margin-bottom:0.1em}
+#nav .block3{float:right}
+#servicenav ul,#rblock ul{display:block;margin:0 0 0 0;padding:0;font-size:1.0em;line-height:1em;text-align:right}
+#servicenav ul li,#rblock ul li{float:left;margin:0;padding:0;padding:0em 0.6em 0em 0.6em;
+font-size:1.0em;
+list-style-type:none;border-left:0px #fff solid;
+border-right:0px #333 solid;
+}
+#rblock ul li{padding-left:0}
+#servicenav ul li a,#rblock ul li a,#lblock a{display:block;width:auto;font-size:1.0em;color:#87a1b2;background:transparent;text-decoration:none;margin:0;padding:0}
+#servicenav ul li a{color:#fff}
+#servicenav ul li a:hover,#rblock ul li a:hover,#lblock a:hover{background:#eee;color:#333;text-decoration:none}
+#servicenav ul li#current,#rblock ul li#current{border-left:0px #333 solid;border-right:0px #333 solid}
+#servicenav ul li#current a,#servicenav ul li#current a:hover{color:#999;background:transparent;text-decoration:none}
+#col3_content ul{margin-bottom:1em}
+#col3_content ul li ul{margin-bottom:0}
+#col3_content li{line-height:1.5em;list-style-position:outside}
+div.lColumn{width:18em;margin-left:2em;margin-right:1em}
+div.lColumn h1{font-size:1.1em;font-weight:bold;background-color:#edece8;
+margin-top:1em;margin-bottom:0.5em;padding:0.3em 0 0.3em 1.5em;
+color:#000}
+div.lColumn h2{font-size:1em;font-weight:bold}
+div.lColumn ul.linkliste{border-top:1px #bbccd8 dotted;list-style-type:none;margin:0 0 0 0;padding:0;color:#666}
+div.lColumn ul.linkliste li{line-height:1.5em}
+ul.linkliste li a{text-decoration:none;color:#000}
+ul.linkliste li a:hover{text-decoration:none}
+ul.kontakt,ul.kontakt li{list-style-type:none;margin:0 0 0 0;padding:0;color:#666}
+ul.kontakt{margin:0 0 0.5em 0;padding:0 0 1em 0;border-bottom:1px solid #bbccd8}
+#footer{color:#555;background:#fff;margin:1em;margin-right:2em;padding:0 0 0 0;border-top:0px #ddd dotted}
+#footer div#lblock{width:21em;margin:0;float:left;background-color:inherit;padding-top:0}
+#footer div#lblock_content{margin-left:1em;margin-right:2em;padding-right:0;padding-top:0.4em;color:#666;border-top:1px dotted}
+#footer div#mblock{
+margin:0;background-color:inherit;padding-top:0}
+#footer div#mblock_content{margin-left:21em;margin-right:19em;border-top:1px dotted;padding-top:0.4em;color:#666}
+#footer div#mblock_innen{border-left:none;border-right:none}
+div.drucken{float:left;margin-top:0}
+div.lastChanged{float:left;margin-top:0.1em;margin-left:0}
+#footer div#rblock{width:19em;margin:0;float:right;padding-top:0;background-color:inherit}
+#footer div#rblock_content{padding-left:0;color:#666;margin-left:0;margin-right:0;border-top:1px dotted;padding-top:0.5em}
+.tx-ttnews-browsebox{text-align:center;padding:0;margin:1.2em 0 1em 0;padding:1px;border:1px solid #ccd;background:#f0f0f4}
+.tx-ttnews-browsebox a,.tx-ttnews-browsebox strong{padding:0 0.4em 0.4em 0;margin:0;background:transparent}
+.news-latest-item{margin-bottom:1em}
+.news-latest-item h3{padding-top:0}
+.news-latest-item h3 a{text-decoration:underline}
+.news-latest-item h3 a:hover{background:transparent}
+.news-latest-item img{padding-right:1em;padding-top:0.1em;float:left}
+.news-latest-morelink{padding:1px;border:1px solid #ccd;background:#f0f0f4;text-align:center}
+#col1 .news-list-container{margin-top:1em}
+.news-list-container,.news-list3-container{margin-bottom:1.8em}
+.news-list-image{float:left;padding:1.5em 0.3em 0 0}
+.news-list-item,.news-list3-item,.list3-subdiv{padding:5px 0 5px 5px;line-height:1.5em;border-bottom:1px dotted #ccd;background-color:#e9eef1}
+.tx-rgtabs-pi1 .news-list-item{padding:5px 0 5px 5px;line-height:1.5em;border-bottom:1px dotted #ccd;background-color:#fff}
+div.uniborder .news-list-item{background-color:#fff}
+.news-list-text{margin-right:1em;margin-left:0.2em;width:auto;margin-top:0;padding-top:1px}
+div.uniborder .news-list-text{margin-left:1.4em}
+td.news-list-text-stellen{padding-left:1em;padding-right:1em}
+.clearer{color:#e9eef1;display:none}
+#col3_content .news-list-text h3,#col1_content .news-list-text h3{padding-left:0;font-size:12px;font-weight:bold}
+.news-list-text h3 a{margin-left:0;text-decoration:none;color:#000}
+.news-list-text h3 a:hover{background:transparent}
+.news-list-item p.bodytext{border:0px solid #000}
+.news-list-morelink{padding:1px;border:0px solid #ccd;background:#fff;
+}
+.news-list-morelink a{color:#3284b3}
+.news-list-morelink a:hover{color:#666;background:transparent}
+.news-single-item h3{margin-bottom:1em;margin-top:1em;color:#000;padding:0.5em;background:#f0f0f4;border-left:8px #E0E7F5 solid}
+.news-single-img{padding-right:15px;float:left}
+.news-single-img p{padding:0;margin:0;margin-bottom:1em}
+.news-single-timedata{color:#aaa;margin-bottom:1em}
+.news-list-category{color:#aaa}
+.news-single-additional-info{}
+.news-single-additional-info dd{margin-top:-1em}
+.news-single-additional-info dt{margin-bottom:1.4em;color:#aaa}
+dl.news-single-files dd a{margin:0 0.5em}
+.tx-indexedsearch .tx-indexedsearch-searchbox INPUT.tx-indexedsearch-searchbox-button{width:100px}
+.tx-indexedsearch .tx-indexedsearch-searchbox INPUT.tx-indexedsearch-searchbox-sword{width:150px}
+.tx-indexedsearch .tx-indexedsearch-whatis P .tx-indexedsearch-sw{font-weight:bold;font-style:italic}
+.tx-indexedsearch .tx-indexedsearch-whatis{margin-top:10px;margin-bottom:5px}
+.tx-indexedsearch P.tx-indexedsearch-noresults{text-align:center;font-weight:bold}
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-title{background:#eeeeee}
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-title P{font-weight:bold}
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-title P.tx-indexedsearch-percent{font-weight:normal}
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-descr P{font-style:italic}
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-descr P .tx-indexedsearch-redMarkup{}
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-info{background:#E0E7F5}
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-secHead{margin-top:20px;margin-bottom:5px}
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-secHead H2{color:#006699;margin-top:0px;margin-bottom:0px;background:transparent}
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-secHead TABLE{background:#cccccc}
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-secHead TD{vertical-align:middle}
+.tx-indexedsearch .tx-indexedsearch-res .noResume{color :#666666}
+.tx-indexedsearch-sw,.csc-sword,.tx-indexedsearch-redMarkup{font-family:monospace;font-style:normal;padding:0 0.3em 0 0.3em;background:#ffff88;border:0px #ccd solid}
+table.suchtabelle tr td{margin:0;padding:0.4em;border:0px solid #000}
+table.suchtabelle tr td.leftpadding{padding-left:1.4em}
+div.searchbox{margin:1em 0 0 2em;padding:0.5em 0 0.5em 0.5em;width:17.5em;background-color:#edece8;
+}
+div.searchbox input{padding-bottom:0.2em}
+div.searchbox{display:none}
+input,textarea{background-color:#ffffff}
+.li_searchbox_advanced{font-size:9px;margin:0px;padding-left:2.7em}
+.li_searchbox{margin:0;padding-left:1.7em}
+.ul_searchbox{list-style-type:none;margin:0;padding:0}
+.input_searchbox{border:0}
+.input_searchword{height:18px;width:130px;font-size:11px}
+.tx-macinasearchbox-pi1 input{padding:0;margin:0}
+#col2_content .news-list-container{width:18em}
+tr.tx-filelist-pi1-tr td{padding-right:0.5em}
+td.tx-filelist-pi1-filename{width:54em}
+td.noBorder{border:0px dotted #c4c0b4}
+table.normfontsize td{font-size:1.1em}
+table.alumni td{padding:0.5em 1em;margin:0.5em;font-size:1.1em;border:1px #e0e0e0 dotted}
+.subcr,.subcl,.subcolumns,.c66l,.c33r{margin-top:0}
+div#main{margin-top:1.5em}
+.subcl{padding:0 0.5em 0 0;overflow:hidden}
+.subcr{padding:0 0 0 0.5em;overflow:hidden}
+.csc-mailform-field{margin-bottom:1em;margin-left:0;padding-left:0;background-color:#ffffff}
+input.powermail_submit,input.csc-mailform-submit,input.powermail_reset,.powermail-margin-left{margin-left:10.8em}
+input.powermail_submit,input.csc-mailform-submit,input.powermail_reset,div.c33r .powermail-margin-left{margin-left:1em}
+div.tx-powermail legend,div.tx-powermail h3{display:none}
+div.tx-powermail legend.powermail_radio_legend{display:block}
+input.powermail_submit,input.powermail_reset{float:left}
+div.tx-powermail input,div.tx-powermail textarea{margin-bottom:1em}
+div.c66l div.tx-powermail textarea,div.c66l div.tx-powermail input{width:360px}
+div.c33r div.tx-powermail textarea,div.c33r div.tx-powermail input{width:180px}
+div.tx-powermail textarea,div.tx-powermail input{width:480px}
+div.c66l div.tx-powermail input.powermail_submit,div.c66l div.tx-powermail input.powermail_reset,div.tx-powermail input.powermail_submit,div.tx-powermail input.powermail_reset{width:150px}
+.smallinputfield div input.powermail_text{width:300px}
+div.c66l div.tx-powermail .smallinputfield div input.powermail_text,div.c66l div.tx-powermail .smallinputfield div textarea{width:200px}
+div.tx-powermail select,div.csc-mailform-field select{margin-left:1em;vertical-align:baseline;margin-bottom:1em}
+div.tx-powermail select.powermail_anmeldungschnuppervorlesungen{width:500px}
+div.tx-powermail label,div.csc-mailform-field label,.csc-mailform-label,input.csc-mailform-radio label{font-size:0.9em;color:#999;vertical-align:baseline;margin-top:1em}
+div.tx-powermail label,div.csc-mailform-field label{display:block;float:left;margin:2px 0pt;padding-right:1em;text-align:right;vertical-align:top;width:120px}
+.tx_powermail_fieldwrap_html,.powermail_radio_inner,.powermail_check_inner{clear:both}
+.tx_powermail_fieldwrap_html_5883,.tx_powermail_fieldwrap_html_5888{padding-left:10.8em;margin-bottom:1em}
+div.powermail_mandatory_helper{display:none}
+.powermail_fieldwrap{clear:both}
+.csc-mailform-label{display:block}
+.csc-mailform-radio label{display:inline;margin-left:0.3em}
+.csc-mailform-radio legend{display:none}
+.csc-mailform-submit{margin-top:1em}
+fieldset.tx-powermail_fieldset legend.tx_powermail_fieldwrap_html_radio_title{display:block;padding:1em 0}
+span.powermail_mandatory{padding-left:0.2em}
+.tx_powermail_fieldwrap_html_radio_title{font-weight:bold}
+.label{color:#999999;font-size:0.9em}
+#calroot{background-color:#FFFFFF;border:1px solid #CCCCCC;border-radius:5px 5px 5px 5px;box-shadow:0 0 15px #666666;font-family:Verdana,Arial,sans-serif;font-size:11px;margin-top:-1px;padding:2px;width:198px;z-index:10000}
+#calhead{height:22px;padding:2px 0}
+#caltitle{color:#FA8800;float:left;font-size:14px;line-height:20px;text-align:center;text-shadow:0 1px 0 #DDDDDD;width:155px}
+#calnext,#calprev{background:url('http://www.uni-ulm.de/fileadmin/css/img/prev.gif') no-repeat scroll center center transparent;cursor:pointer;display:block;float:left;height:20px;width:20px}
+#calnext{background-image:url('http://www.uni-ulm.de/fileadmin/css/img/next.gif');float:right}
+#calprev.caldisabled,#calnext.caldisabled{visibility:hidden}
+#caltitle select{font-size:10px}
+#caldays{border-bottom:1px solid #DDDDDD;height:14px}
+#caldays span{display:block;float:left;text-align:center;width:28px}
+#calweeks{background-color:#FFFFFF;margin-top:4px}
+.calweek{clear:left;height:22px}
+.calweek a{color:#666666;display:block;float:left;font-size:11px;height:20px;line-height:20px;margin-left:1px;text-align:center;text-decoration:none;width:27px}
+.calweek a:hover,.calfocus{background-color:#DDDDDD}
+a.calsun{color:red}
+a.caloff{color:#CCCCCC}
+a.caloff:hover{background-color:#F5F5FA}
+a.caldisabled{background-color:#EFEFEF !important;color:#CCCCCC !important;cursor:default}
+#calcurrent{background-color:#498CE2;color:#FFFFFF}
+#caltoday{background-color:#333333;color:#FFFFFF}
+dd.csc-textpic-caption{background-color:#edece8;font-style:normal}
+div.themenbild2 div.csc-textpic-center .csc-textpic-center-outer,div.themenbild1 div.csc-textpic-center .csc-textpic-center-inner,div.themenbild1 div.csc-textpic-center .csc-textpic-center-outer,div.themenbild2 div.csc-textpic-center .csc-textpic-center-inner{right:0;!important}
+caption.csc-textpic-caption{font-size:0.9em;font-weight:normal}
+.menu_abstand{height:1em}
+ul.status{list-style-type:none;margin:0}
+li.ok{padding:0 0 0 20px;margin:0;background:transparent url('http://www.uni-ulm.de/fileadmin/img/icons/status-ok.gif') no-repeat left}
+li.warning{padding:0 0 0 20px;margin:0;background:transparent url('http://www.uni-ulm.de/fileadmin/img/icons/status-warning.gif') no-repeat left}
+li.fail{padding:0 0 0 20px;margin:0;background:transparent url('http://www.uni-ulm.de/fileadmin/img/icons/status-fail.gif') no-repeat left}
+div.csc-textpic-text ul li{list-style-position:inside}
+tx_sevenpack-item_odd{background-color:#fff}
+tx_sevenpack-block{display:inline}
+div.tx_sevenpack-list_container{margin:0px;padding:0px;margin-left:1em}
+.felogin{margin-bottom:0.5em}
+#c258758{background-color:#fee;padding-bottom:20px}
+.tx-srfeuserregister-pi1 dd{text-align:left;width:66%}
+.tx-srfeuserregister-pi1 dd label{padding:0 0 0 0.2em}
+}
+@media screen{
+#col2{display:none}
+#col2_content{display:none}
+#col3{margin-right:0;border-right:0}
+#col3{border-left:0px #ddd dotted}
+}
+input,textarea{margin-left:1em;width:auto;font:1em Verdana,Arial,Helvetica,Sans-Serif;border:1px #ccc solid;background:#fafafa;padding:2px;color:#777}
+input[type=text]:focus,textarea:focus{background:#f0f0f0;color:#333;border-color:#666}
+input[type=image]{margin-bottom:-0.45em}
+.solr-search-widget input[type=image],.solr-search-box input[type=image]{margin-bottom:0}
+.solr-search-box input[type=image]{display:none}
+.solr-search-box{background-color:#e5ebee;padding-bottom:1em;width:20em}
+.solr-search-widget .ui-autocomplete-input,.solr-search-box .ui-autocomplete-input{position:relative;z-index:3456}
+img{border:0}
+a.external-link-new-window img,a.internal-link img,a.mail img,a.download img{padding-right:0.3em}
+p.csc-linkToTop{text-align:right}
+div.defaultdiv{background-color:#91acbc;color:#fff;padding:0.9em 0 0 0}
+div.iuidiv{background-color:#b10135;color:#fff;padding:0.9em 0 0 0}
+div.iuidiv a{color:#fff}
+div.iuidiv a:hover{background-color:transparent}
+div.iuidiv li{list-style-type:none;margin-left:0;padding-bottom:0.6em}
+div.matdiv{background-color:#77ad1a;color:#fff;padding:0.9em 0 0 0}
+div.matdiv a{color:#fff}
+div.matdiv a:hover{background-color:transparent}
+div.matdiv li{list-style-type:none;margin-left:0;padding-bottom:0.6em}
+div.meddiv{background-color:#005291;color:#fff;padding:0.9em 0 0 0}
+div.meddiv a{color:#fff}
+div.meddiv a:hover{background-color:transparent}
+div.meddiv li{list-style-type:none;margin-left:0;padding-bottom:0.6em}
+div.natdiv{background-color:#df6d07;color:#fff;padding:0.9em 0 0 0}
+div.natdiv a{color:#fff}
+div.natdiv a:hover{background-color:transparent}
+div.natdiv li{list-style-type:none;margin-left:0;padding-bottom:0.6em}
+div.whitediv_new{background-color:#fff;color:#000;padding:1em 0 0.3em 0.75em;position:relative}
+div.whitediv_new h2{padding-left:0.6em;font-size:1.3em;font-weight:normal}
+div.defaultdiv_new{background-color:#91acbc;color:#fff;padding:0.4em 0 0.4em 0.75em;margin:0 0 1.2em 0;position:relative}
+div.defaultdiv_new:before{content:"";position:absolute;left:1.2em;top:100%;width:0;height:0;border-left:13px solid transparent;border-right:13px solid transparent;border-top:13px solid #91acbc}
+div.defaultdiv_new h2{padding:0.5em;font-size:1.3em;font-weight:normal}
+div.defaultdiv_new h2 a{color:#fff}
+div.defaultdiv_new h2 a:hover,div.defaultdiv_new h2 a:visited{background-color:transparent}
+div.beigediv_new{background-color:#a9a18d;color:#fff;border-bottom:13px solid #edece8;
+padding:0.9em 0 0.9em 0.75em;margin:0;position:relative}
+div.beigediv_new:before{content:"";position:absolute;left:1.2em;top:100%;width:0;height:0;border-left:13px solid transparent;border-right:13px solid transparent;border-top:13px solid #a9a18d}
+div.beigediv_new_white_bg{background-color:#a9a18d;color:#fff;border-bottom:13px solid #fff;padding:0.9em 0 0.9em 0.75em;margin:0;position:relative}
+div.beigediv_new_white_bg:before{content:"";position:absolute;left:1.2em;top:100%;width:0;height:0;border-left:13px solid transparent;border-right:13px solid transparent;border-top:13px solid #a9a18d}
+div.beigediv_new h2{padding:0 0.6em !important;font-size:1.3em;font-weight:normal}
+div.beigediv_new h2 a{color:#fff}
+div.beigediv_new h2 a:hover,div.beigediv_new h2 a:visited{background-color:transparent}
+div.iuidiv_new,div.iuidiv_toparrow{background-color:#b10135;color:#fff;padding:0.9em 0 0.9em 0.75em;margin:0.5em 0 1.2em 0;position:relative}
+div.iuidiv_toparrow{margin-bottom:0}
+div.iuidiv_new:before{content:"";position:absolute;left:1.2em;top:100%;width:0;height:0;border-left:13px solid transparent;border-right:13px solid transparent;border-top:13px solid #b10135}
+div.iuidiv_new a,div.iuidiv_toparrow a{color:#fff}
+div.iuidiv_new a:hover,div.iuidiv_toparrow a:hover{background-color:transparent}
+div.iuidiv_new li,div.iuidiv_toparrow li{list-style-type:none;margin-left:0;padding-bottom:0.6em}
+div.iuidiv_new h2,div.iuidiv_toparrow h2{padding-left:0.6em;font-size:1.2em;font-weight:normal}
+div.iuidiv_toparrow h3{padding-left:1em;padding-top:0.5em;font-size:1.2em;font-weight:normal}
+div.iuidiv_toparrow:before{content:"";position:absolute;left:1.2em;top:0;width:0;height:0;border-left:13px solid transparent;border-right:13px solid transparent;border-top:13px solid #fff}
+div.matdiv_new,div.matdiv_toparrow{background-color:#77ad1a;color:#fff;padding:0.9em 0 0.9em 0.75em;margin:0.5em 0 1.2em 0;position:relative}
+div.matdiv_toparrow{margin-bottom:0}
+div.matdiv_new:before{content:"";position:absolute;left:1.2em;top:100%;width:0;height:0;border-left:13px solid transparent;border-right:13px solid transparent;border-top:13px solid #77ad1a}
+div.matdiv_toparrow:before{content:"";position:absolute;left:1.2em;top:0;width:0;height:0;border-left:13px solid transparent;border-right:13px solid transparent;border-top:13px solid #fff}
+div.matdiv_new a,div.matdiv_toparrow a{color:#fff}
+div.matdiv_new a:hover,div.matdiv_toparrow a:hover{background-color:transparent}
+div.matdiv_new li,div.matdiv_toparrow li{list-style-type:none;margin-left:0;padding-bottom:0.6em}
+div.matdiv_new h2,div.matdiv_toparrow h2{padding-left:0.6em;font-size:1.2em;font-weight:normal}
+div.matdiv_toparrow h3{padding-left:1em;padding-top:0.5em;font-size:1.2em;font-weight:normal}
+div.meddiv_new,div.meddiv_toparrow{background-color:#005291;color:#fff;padding:0.9em 0 0.9em 0.75em;margin:0.5em 0 1.2em 0;position:relative}
+div.meddiv_toparrow{margin-bottom:0}
+div.meddiv_new:before{content:"";position:absolute;left:1.2em;top:100%;width:0;height:0;border-left:13px solid transparent;border-right:13px solid transparent;border-top:13px solid #005291}
+div.meddiv_toparrow:before{content:"";position:absolute;left:1.2em;top:0;width:0;height:0;border-left:13px solid transparent;border-right:13px solid transparent;border-top:13px solid #fff}
+div.meddiv_new a,div.meddiv_toparrow a{color:#fff}
+div.meddiv_new a:hover,div.meddiv_toparrow a:hover{background-color:transparent}
+div.meddiv_new li,div.meddiv_toparrow li{list-style-type:none;margin-left:0;padding-bottom:0.6em}
+div.meddiv_new h2,div.meddiv_toparrow h2{padding-left:0.6em;font-size:1.2em;font-weight:normal}
+div.meddiv_toparrow h3{padding-left:1em;padding-top:0.5em;font-size:1.2em;font-weight:normal}
+div.natdiv_new,div.natdiv_toparrow{background-color:#df6d07;color:#fff;padding:0.9em 0 0.9em 0.75em;margin:0.5em 0 1.2em 0;position:relative}
+div.natdiv_toparrow{margin-bottom:0}
+div.natdiv_new:before{content:"";position:absolute;left:1.2em;top:100%;width:0;height:0;border-left:13px solid transparent;border-right:13px solid transparent;border-top:13px solid #df6d07}
+div.natdiv_toparrow:before{content:"";position:absolute;left:1.2em;top:0;width:0;height:0;border-left:13px solid transparent;border-right:13px solid transparent;border-top:13px solid #fff}
+div.natdiv_new a,div.natdiv_toparrow a{color:#fff}
+div.natdiv_new a:hover,div.natdiv_toparrow a:hover{background-color:transparent}
+div.natdiv_new li,div.natdiv_toparrow li{list-style-type:none;margin-left:0;padding-bottom:0.6em}
+div.natdiv_new h2,div.natdiv_toparrow h2{padding-left:0.6em;font-size:1.2em;font-weight:normal}
+div.natdiv_toparrow h3{padding-left:1em;padding-top:0.5em;font-size:1.2em;font-weight:normal}
+.c33r .subcr h2{padding:0.5em}
+.c33r .subcr ul.kontakt{padding:0.75em}
+.c33r .subcr .tx-cal-controller{padding:0.5em 0 0 0.75em}
+div.iuiborder{border:2px solid #b10135;margin-top:-0.7em !important;margin-bottom:2em !important}
+div.matborder{border:2px solid #77ad1a;margin-top:-0.7em !important;margin-bottom:2em !important}
+div.medborder{border:2px solid #005291;margin-top:-0.7em !important;margin-bottom:2em !important}
+div.natborder{border:2px solid #df6d07;margin-top:-0.7em !important;margin-bottom:2em !important}
+div.uniborder{border:2px solid #91acbc;margin-top:0 !important;margin-bottom:0.7em}
+div.beigeborder{border:2px solid #a9a18d;margin-top:0.7em !important;margin-bottom:2em !important;
+}
+div.uniborder h2,div.beigeborder h2{padding:0.3em 0.5em}
+div.topmargin h2{padding-left:1.2em;padding-bottom:0.4em}
+div.uniborder h3{padding-left:1.5em}
+div.uniborder ul.kontakt,div.uniborder p,div.beigeborder ul.kontakt,div.beigeborder p,div.iuiborder p,div.matborder p,div.medborder p,div.natborder p,div.hellbeigefill p,div.hellblaufill p{padding:0.75em 0.75em 0 1.75em}
+div.hellbeigefill{background-color:#edece8;
+position:relative;height:100%}
+div.hellblaufill{background-color:#e4eaed;position:relative;height:100%}
+h1.fakultaetsheader{margin-top:-0.2em;margin-left:-0.4em;margin-bottom:0.3em;display:block;padding:0.25em 0.4em;padding-left:2.4em;background:#b1c4d1 url('http://www.uni-ulm.de/fileadmin/img/icons/cube_bg_color_default.gif') no-repeat 0.7em}
+h1.header,h2.header{font-size:4em;font-weight:normal;letter-spacing:0.02em;margin-left:0.45em;margin-top:1.5em}
+span.headerslogan{font-size:1.4em}
+#col3_content h1,table caption{padding:0.25em 0 0.25em 0.3em;margin:0 0 1em 0;font-size:1.1em;font-weight:bold;background-color:#edece8}
+#col3_content h1.uppermargin{margin-top:1em}
+#col3_content h1 span.fakultaetsheader{background-color:transparent;
+}
+#col1_content h1,#col3_content h1,h1.bgColor{background-color:#edece8;margin-bottom:1em;margin-left:0}
+#col3_content h2{font-size:1.05em;font-weight:bold;
+margin:0 0 0.3em 0;line-height:1.4em}
+#col3_content h2.balken{padding:0.25em 0 0.25em 0.3em;font-size:1.1em;margin-top:1em;background-color:#edece8}
+#col3_content h2.iui_border{color:#b10135;padding-bottom:0.4em;margin-bottom:1em;border-bottom:1px #b10135 solid}
+#col3_content h2.uni_border{color:#91acbc;padding-bottom:0.4em;margin-bottom:1em;border-bottom:1px #91acbc solid}
+#col3_content h2.nat_border{color:#df6d07;padding-bottom:0.4em;margin-bottom:1em;border-bottom:1px #df6d07 solid}
+#col3_content h2.med_border{color:#005291;padding-bottom:0.4em;margin-bottom:1em;border-bottom:1px #005291 solid}
+#col3_content h2.mat_border{color:#77ad1a;padding-bottom:0.4em;margin-bottom:1em;border-bottom:1px #77ad1a solid}
+#col3_content h3{font-size:1em;font-weight:bold;margin:1.4em 0 0.3em 0;line-height:1.4em}
+#col3_content h4{font-size:0.95em;font-weight:bold;margin:1.4em 0 0.3em 0}
+#col3_content h5{font-size:0.925em;font-weight:bold;margin:1.4em 0 0.3em 0}
+#col3_content h6{font-size:0.9em;font-weight:bold;margin:1.4em 0 0.3em 0}
+span.fakultaetsbody{background-color:#dce5eb;display:block;padding:0.4em 0.7em}
+span.mono{font-family:"Courier New",Courier,monospace;font-style:normal;padding:0 0.3em 0 0.3em;background:#f0f0f4;border:1px #ccd solid}
+span.file{font-family:"Courier New",Courier,monospace;font-style:normal;padding:0 0 0 14px;color:#000088;background:transparent url('http://www.uni-ulm.de/fileadmin/img/icons/file.gif') no-repeat left}
+span.directory{font-family:"Courier New",Courier,monospace;font-style:normal;padding:0 0 0 15px;color:#000088;background:transparent url('http://www.uni-ulm.de/fileadmin/img/icons/dir.gif') no-repeat left}
+span.iui_rot{color:#b10135}
+span.mat_gruen{color:#77ad1a}
+span.med_blau{color:#005291}
+span.nat_orange{color:#df6d07}
+span.uni_blau{color:#91acbc}
+span.uni_beige{color:#c4c0b4}
+span.rss{margin-top:-1.5em;margin-right:1.5em;float:right;padding-right:2em;line-height:2em;background-image:url('http://www.uni-ulm.de/fileadmin/img/icons/rss1.png');background-repeat:no-repeat;background-color:transparent;background-position:100% 0.2em}
+span.podcast{margin-left:1.5em;margin-top:-0.74em;padding-left:2.5em;line-height:2.8em;float:left;background-image:url('http://www.uni-ulm.de/fileadmin/img/icons/audio_gruen.png');background-repeat:no-repeat;background-color:transparent;background-position:0 0.8em}
+p.smalltext{font-size:0.9em}
+p.fussnote{font-size:0.9em}
+p.box{display:block;
+color:#000;padding:6px;background-color:#f0f0f4;border:1px #E0E7F5 solid;border-left:8px #E0E7F5 solid;margin-bottom:1em}
+p.bluebox,table.bluebox{color:#000;background-color:#e9eef1;padding:6px;
+margin-bottom:1em}
+p.redbox{color:#000;background-color:#fee;
+padding:6px;margin-bottom:1em}
+p.orangebox{color:#000;background-color:#fcf1e5;
+padding:6px;margin-bottom:1em}
+p.greybox{color:#000;background-color:#efece9;
+padding:6px;margin-bottom:1em}
+p.medbluebox{color:#000;background-color:#e5e9f2;padding:6px;margin-bottom:1em}
+p.beigebox{color:#000;background-color:#efece9;
+padding:6px;margin-bottom:1em}
+p.greenbox{color:#000;background-color:#dae9ce;
+padding:6px;margin-bottom:1em}
+p.greenbox a{color:#353}
+p.greenbox a:hover{background:transparent}
+p.code{display:block;
+font-family:"Courier New",Courier,monospace;font-size:0.8em;padding:6px;color:#000;background:#efece9;
+margin-bottom:1em}
+p.nomargin{margin:0 0 0 0;line-height:1em}
+p.smallmargin{margin:0 0 0.5em 0;line-height:1em}
+p.einzug{padding-left:1.5em}
+p.csc-form-label-req{font-weight:bold}
+p.ohneBorder{border:none}
+.csc-caption{font-size:0.9em;background-color:#E0E7F5;padding:2px}
+div.pagemargins{margin:0 2em 0 2em}
+div.topmargin{margin-top:1.5em}
+li.defaultli{list-style:url('http://www.uni-ulm.de/fileadmin/img/icons/list_default.png');margin-left:3em}
+div.hellbeigefill ul{padding:0.5em 0 1em 0}
+li.beigeli{list-style:url('http://www.uni-ulm.de/fileadmin/img/icons/list_dklbeige.png');margin:0 0 0.6em 2em}
+li.iuili{list-style:url('http://www.uni-ulm.de/fileadmin/img/icons/list_red.png');margin-left:3em}
+li.matli{list-style:url('http://www.uni-ulm.de/fileadmin/img/icons/list_green.png');margin-left:3em}
+li.medli{list-style:url('http://www.uni-ulm.de/fileadmin/img/icons/list_blue.png');margin-left:3em}
+li.natli{list-style:url('http://www.uni-ulm.de/fileadmin/img/icons/list_orange.png');margin-left:3em}
+li.kombili_red_blue{list-style:url('http://www.uni-ulm.de/fileadmin/img/icons/list_red_blue.png');margin-left:3em}
+li.kombili_green_blue{list-style:url('http://www.uni-ulm.de/fileadmin/img/icons/list_green_blue.png');margin-left:3em}
+li.kombili_orange_blue{list-style:url('http://www.uni-ulm.de/fileadmin/img/icons/list_orange_blue.png');margin-left:3em}
+li.kombili_orange_red{list-style:url('http://www.uni-ulm.de/fileadmin/img/icons/list_orange_red.png');margin-left:3em}
+li.kombili_green_red_orange{list-style:url('http://www.uni-ulm.de/fileadmin/img/icons/list_green_red_orange.png');margin-left:3em}
+li.kombili_orange_red_green{list-style:url('http://www.uni-ulm.de/fileadmin/img/icons/list_orange_red_green.png');margin-left:3em}
+li.kombili_orange_red_blue{list-style:url('http://www.uni-ulm.de/fileadmin/img/icons/list_orange_red_blue.png');margin-left:3em}
+div.coluniborder li.defaultli,div.uniborder li.defaultli,div.subcl0 li.beigeli,div.subcr0 li.beigeli,div.iuiborder li.iuili,div.medborder li.medli,div.natborder li.natli,div.matborder li.matli,div.beigeborder li.beigeli,div.hellblau li.defaultli,div.hellblaufill li.defaultli,div.hellbeige li.beigeli{margin-left:2em;margin-bottom:0.75em;margin-right:1em;line-height:1.35em;font-weight:normal}
+ul.linkliste,ul.linkliste li ul{border-top:1px #87a1b2 solid;list-style-type:none;margin:0}
+ul.linkliste li ul{border-top:0px #87a1b2 solid}
+ul.linkliste li{border-bottom:1px #87a1b2 solid;margin-bottom:0}
+ul.linkliste a{display:block}
+ul.linkliste a:hover{background-color:#dce5eb}
+ul.kontakt{list-style-type:none}
+ul.inlinestyle li{display:inline;list-style-type:none}
+table.kontakt td,div.vcard{margin:0 0 0 0;padding:0 0 0.5em 0;color:#666}
+div.vcard h2{color:#000}
+div.picture,div.name,div.org,div.department,div.building,div.room,div.tel,div.fax,div.mobile,div.email,div.postalCode,div.street-address,div.birthday{padding:0.25em 0}
+div.street-address{line-height:1.5em;padding:0 0 0.25em 0}
+table.kontakt,div.vcard,hr.vcard{border-bottom:1px #87a1b2 solid}
+div.vcard div label{display:block;float:left;padding-right:0.1em;text-align:left;vertical-align:top;width:62px}
+div.vcard_list{border-bottom:0px solid #bbccd8}
+div.vcard_list div{display:block;float:left;padding-right:1em;margin-right:0em}
+div.vcard_list div.name{width:230px}
+div.vcard_list div.tel,div.vcard_list div.birthday{width:130px}
+div.vcard_list div.building{width:110px}
+div.vcard_list div.room{width:60px}
+div.vcard_list div.email{width:230px}
+div.tx-ttaddress-pi1{margin-bottom:1em}
+.anmelden{color:#000;background-color:#fee;padding:6px;margin-bottom:1em}
+input.w90p,textarea.w90p{margin-left:0}
+ul.anmelden{margin-left:0}
+ul.anmelden li{list-style-type:none;margin-left:0;padding:0.2em 0}
+table{padding:0;margin:0 0.1em 1em 0.1em;border-collapse:collapse;
+font-size:1em}
+thead{font-size:1.1em;font-weight:bold;margin:1.4em 0 0.3em 0}
+tfoot{font-size:0.9em}
+table.zebra-rows{}
+table.zebra-rows tr{background:#fff}
+table.zebra-rows tr.odd{background:#edece8}
+td,td.td-0,td.td-last,td.td-1,td.td-2,td.td-3,td.td-4,td.td-5,td.td-6,td.td-7,td.td-8{vertical-align:top;padding:0.2em;
+}
+p.alignright,.align-right{text-align:right}
+p.alignleft,.align-left{text-align:left}
+p.aligncenter,.align-center{text-align:center}
+p.alignblock,.align-justify{text-align:justify}
+hr.hruni{border-bottom:1px #bbccd8 solid}
+hr.hriui{border-bottom:1px #b10135 solid}
+hr.hrmed{border-bottom:1px #005291 solid}
+hr.hrmat{border-bottom:1px #77ad1a solid}
+hr.hrnat{border-bottom:1px #df6d07 solid}
+hr.abstand{margin-bottom:1.5em}
+dfn,abbr,acronym{border-bottom:1px #bbccd8 dashed;font-style:normal;cursor:help}
+div.csc-textpic-text a:hover,div.csc-textpic a:hover{background-color:transparent}
+#month-header{width:100%;margin-bottom:7px}
+#month-header-prevnext{float:left}
+#month-header-icons{float:right;text-align:right}
+#month-header-icons IMG,#month-header-prevnext IMG,#month-footer IMG{border:0px solid}
+#month-footer{width:735px;margin-bottom:7px}
+#month-footer-header{text-align:center}
+table.month-small{border:1px solid #A1A5A9;border-collapse:collapse}
+.month-small th,.month-small td{padding:0;width:22px;font-size:10px}
+.month-large{border:1px solid #A1A5A9;border-collapse:collapse}
+.month-large th,.month-large td{border:1px solid #A1A5A9}
+.month-large .weekday{background-color:#EEE;height:12px}
+.month-large .weeknum{background-color:#A1A5A9;width:22px}
+.month-large .day{height:100px;width:100px;vertical-align:top;text-align:left}
+.month-large .day div{text-align:right;padding-right:3px}
+#calendar-nav{}
+#calendar-nav td{vertical-align:top}
+#calendar-nav td#previous{width:175px}
+#calendar-nav td#list{width:188px}
+#calendar-nav td#legend{width:188px}
+#calendar-nav td#next{width:175px}
+#link-ics,#link-admin{width:100%;text-align:center}
+.calborder{background-color:#fff;border:1px solid #A1A5A9}
+.tbll{background:url('http://www.uni-ulm.de/fileadmin/css/typo3conf/ext/cal/template/img/shadow_l.gif') no-repeat;width:8px}
+.tblbot{background:url('http://www.uni-ulm.de/fileadmin/css/typo3conf/ext/cal/template/img/shadow_m.gif') repeat-x;width:100%}
+.tblr{background:url('http://www.uni-ulm.de/fileadmin/css/typo3conf/ext/cal/template/img/shadow_r.gif') no-repeat;width:8px}
+.rowOn{background-color:#cfc;border-top:1px solid #fff;border-left:1px solid #fff}
+.rowOn2{background-color:#cfc;border-top:1px solid #fff}
+.rowOff{background-color:#E1E8F1;border-top:1px solid #fff;border-left:1px solid #fff}
+.rowOff2{background-color:#E1E8F1;border-top:1px solid #fff}
+.rowToday{background-color:#cff;border-top:1px solid #fff;border-left:1px solid #fff}
+.tx-cal-controller .padd{
+}
+.eventbg_1{background-color:#557CA3;padding:2px}
+.eventbg_2{background-color:#53A062;padding:2px}
+.eventbg_3{background-color:#E84F25;padding:2px}
+.eventbg_4{background-color:#B257A2;padding:2px}
+.eventbg_5{background-color:#D42020;padding:2px}
+.eventbg_6{background-color:#B88F0B;padding:2px}
+.eventbg_7{background-color:#73738C;padding:2px}
+#allday a{font-size:9px;color:#fff;font-weight:900;text-decoration:none}
+#allday a:hover{text-decoration:underline}
+.eventbg2_1{background-color:#6699CC;border:1px solid #557CA3}
+.eventbg2_2{background-color:#4FC464;border:1px solid #53A062}
+.eventbg2_3{background-color:#FF6D3B;border:1px solid #E84F25}
+.eventbg2_4{background-color:#EA62D4;border:1px solid #B257A2}
+.eventbg2_5{background-color:#FF5E56;border:1px solid #D42020}
+.eventbg2_6{background-color:#CCB21F;border:1px solid #B88F0B}
+.eventbg2_7{background-color:#9292A1;border:1px solid #73738C}
+.dayborder{background-color:#fff;border-top:1px solid #A1A5A9}
+.dayborder2{background-color:#fff;border-top:1px dashed #ccc}
+.tx-cal-controller .title{background-image:url('http://www.uni-ulm.de/fileadmin/css/typo3conf/ext/cal/template/img/time_bg.gif');padding:5px}
+.tx-cal-controller .title h1{font-family:Helvetica,sans-serif;font-size:18px;color:#000;margin:0}
+.monthback{background-color:#A1A5A9}
+.monthsmallbasic{text-align:left;vertical-align:top}
+.monthmediumbasic{height:20px;width:20px;text-align:left;vertical-align:top}
+.monthoff{background-color:#F2F2F2 ! important}
+.monthtoday{background-color:#F2F9FF ! important}
+.monthWeekend{background-color:#FFFFEF}
+.monthselected{border:solid 1px red !important}
+.montheventtop{background-image:url('http://www.uni-ulm.de/fileadmin/css/typo3conf/ext/cal/template/img/side_bg.gif');border-top:1px solid #A1A5A9}
+.montheventline{border-right:1px dotted #A1A5A9}
+.medtitle{background-image:url('http://www.uni-ulm.de/fileadmin/css/typo3conf/ext/cal/template/img/side_bg.gif');height:20px;margin-top:3px;font-weight:900}
+.yearreg{background-color:#fff;height:30px;width:30px;text-align:right;vertical-align:top;font-size:9px}
+.yearoff{background-color:#F2F2F2;height:30px;width:30px;text-align:right;vertical-align:top;font-size:9px}
+.yearon{background-color:#F2F9FF;height:30px;width:30px;text-align:right;vertical-align:top;font-size:9px}
+.yearmonth{background-color:#ccc}
+.yearweek{background-color:#eee;width:30px;font-size:9px;font-weight:900;text-align:center;height:15px}
+.eventborder{background-image:url('http://www.uni-ulm.de/fileadmin/css/typo3conf/ext/cal/template/img/day_title.gif');border:1px #006699 solid}
+.dateback{background-color:#eee}
+.weekborder{border-top:1px dashed #A1A5A9;border-right:1px solid #A1A5A9}
+.weekborder2{border-right:1px solid #A1A5A9}
+.timeborder{border-right:2px solid #A1A5A9;border-top:1px dashed #A1A5A9;background-image:url('http://www.uni-ulm.de/fileadmin/css/typo3conf/ext/cal/template/img/time_bg.gif')}
+.timeborder2{border-right:2px solid #A1A5A9;border-top:1px solid #A1A5A9;background-image:url('http://www.uni-ulm.de/fileadmin/css/typo3conf/ext/cal/template/img/time_bg.gif')}
+.tx-cal-controller .navback{background-image:url('http://www.uni-ulm.de/fileadmin/css/typo3conf/ext/cal/template/img/time_bg.gif')}
+.tx-cal-controller .navback img{border:none}
+.tx-cal-controller .sideback{background-image:url('http://www.uni-ulm.de/fileadmin/css/typo3conf/ext/cal/template/img/side_bg.gif')}
+a.psf{text-decoration:none}
+a.psf:link{color:#0066FF}
+a.psf:visited{color:#0066FF}
+a.psf:active{color:#3366CC}
+a.psf:hover{color:#000099;text-decoration:underline}
+a.ps2{text-decoration:underline}
+a.ps2:link{color:#0066FF}
+a.ps2:visited{color:#0066FF}
+a.ps2:active{color:#3366CC}
+a.ps2:hover{color:#000099}
+a.ps3{text-decoration:none}
+a.ps3:link{color:#000}
+a.ps3:visited{color:#000}
+a.ps3:active{color:#000}
+a.ps3:hover{color:#000;text-decoration:underline}
+a.ps{text-decoration:none}
+a.ps:link{color:#fff}
+a.ps:visited{color:#fff}
+a.ps:active{color:#fff}
+a.ps:hover{color:#fff;text-decoration:underline}
+.legend_calendar{font-size:9px;color:#000000;margin-top:1em;margin-left:1em}
+.V9{text-align:left ! important;font-size:9px;color:#000000}
+.V9 ul{margin-bottom:0px;padding-bottom:0px;margin-left:20px;padding-left:0px}
+.V9 li{margin-bottom:0px;padding-bottom:0px}
+.V10W{font-size:10px;color:#FFFFFF;text-decoration:none}
+.V9W{font-size:9px;color:#FFFFFF;text-decoration:none}
+.V10WB{font-size:10px;color:#FFFFFF;font-weight:900}
+.V9G{font-size:9px;color:#666666}
+.V10{font-size:10px;color:#000000}
+.V9BOLD{font-size:9px;font-weight:900}
+.G10{font-size:11px;color:#0066FF}
+.G10B{font-size:11px;color:#000000}
+.G10BOLD{font-size:11px;font-weight:900}
+.G10G{font-size:11px;color:#A1A5A9}
+.V12{font-size:12px;color:#000000}
+.tx-cal-controller .eventfont{font-size:11px;color:#FFFFFF}
+.tx-cal-controller .query_style{font-size:11px;width:156px;margin-bottom:0}
+.tx-cal-controller .search_style{font-size:12px;width:134px;margin-bottom:0}
+.tx-cal-controller .login_style{font-size:11px;width:80px;margin-bottom:0}
+.tx-cal-controller .bold a:link{font-weight:bold}
+.tx-cal-controller .bold a:active{font-weight:bold}
+.tx-cal-controller .bold a:visited{font-weight:bold}
+.tx-cal-controller .pagebrowser span{padding:0 2px}
+.green_catheader,.green_catheader_allday{background-color:#53A062}
+.green_catheader_bullet{color:#4FC464;font-size:13px}
+.green_catheader_text{color:#000000;font-size:11px;margin-left:3px}
+.green_catheader_legend_bullet{margin-left:3px}
+.green_catheader_bullet_text{}
+.green_catheader_allday{text-align:center}
+.green_catbody{background-color:#4FC464;border:1px solid #53A062;color:#fff}
+.green_catbody a:link{color:#fff}
+.orange_catheader,.orange_catheader_allday{background-color:#E84F25}
+.orange_catheader_bullet{color:#FF6D3B;font-size:13px}
+.orange_catheader_text{color:#000000;font-size:11px;margin-left:3px}
+.orange_catheader_legend_bullet{margin-left:3px}
+.orange_catheader_bullet_text{}
+.orange_catheader_allday{text-align:center}
+.orange_catbody{background-color:#FF6D3B;border:1px solid #E84F25;color:#fff}
+.orange_catbody a:link{color:#fff}
+.pink_catheader,.pink_catheader_allday{background-color:#B257A2}
+.pink_catheader_bullet{color:#EA62D4;font-size:13px}
+.pink_catheader_text{color:#000000;font-size:11px;margin-left:3px}
+.pink_catheader_legend_bullet{margin-left:3px}
+.pink_catheader_bullet_text{}
+.pink_catheader_allday{text-align:center}
+.pink_catbody{background-color:#EA62D4;border:1px solid #B257A2;color:#fff}
+.pink_catbody a:link{color:#fff}
+.red_catheader,.red_catheader_allday{background-color:#D42020}
+.red_catheader_bullet{color:#FF5E56;font-size:13px}
+.red_catheader_text{color:#000000;font-size:11px;margin-left:3px}
+.red_catheader_legend_bullet{margin-left:3px}
+.red_catheader_bullet_text{}
+.red_catheader_allday{text-align:center}
+.red_catbody{background-color:#FF5E56;border:1px solid #D42020;color:#fff}
+.red_catbody a:link{color:#fff}
+.yellow_catheader,.yellow_catheader_allday{background-color:#B88F0B}
+.yellow_catheader_bullet{color:#CCB21F;font-size:13px}
+.yellow_catheader_text{color:#000000;font-size:11px;margin-left:3px}
+.yellow_catheader_legend_bullet{margin-left:3px}
+.yellow_catheader_bullet_text{}
+.yellow_catheader_allday{text-align:center}
+.yellow_catbody{background-color:#CCB21F;border:1px solid #B88F0B;color:#fff}
+.yellow_catbody a:link{color:#fff}
+.grey_catheader,.grey_catheader_allday{background-color:#73738C}
+.grey_catheader_bullet{color:#9292A1;font-size:13px}
+.grey_catheader_text{color:#000000;font-size:11px;margin-left:3px}
+.grey_catheader_legend_bullet{margin-left:3px}
+.grey_catheader_bullet_text{}
+.grey_catheader_allday{text-align:center}
+.grey_catbody{background-color:#9292A1;border:1px solid #73738C;color:#fff}
+.grey_catbody a:link{color:#fff}
+.tx-cal-controller .bold{
+}
+.refresh_calendar{margin-right:5px}
+.tx-cal-controller .weekview{margin:0 auto}
+.tx-cal-controller .weekview .nextweek_arrow,.tx-cal-controller .weekview .previousweek_arrow{width:16px;height:20px;border:0px;text-align:left}
+.previsousweek_arrow{text-align:right}
+.fnb_header{background-color:#444444}
+.fnb_body{background-color:#888888;border:1px solid #999999;color:#fff}
+.tx-cal-controller .even{background-color:#eeeeee}
+.tx-cal-controller .treelevel0{}
+.tx-cal-controller .treelevel1{margin-left:20px}
+.tx-cal-controller .treelevel2{margin-left:30px}
+.tx-cal-controller label{display:block;float:left;margin:2px 0pt;padding-right:1em;text-align:right;vertical-align:top;width:120px}
+.tx-cal-controller fieldset div{clear:left}
+.tx-cal-controller .noborder{border:none}
+.tx-cal-controller .search-result{list-style:none;margin-left:0px;padding-left:0px}
+.tx-cal-controller .search-result li{padding-bottom:1em}
+.tx-cal-controller .search_result li .even{background-color:#EEEEEE}
+.tx_cal_controller img .mouse_pointer{cursor:pointer}
+#cal_general,#cal_location,#cal_organizer,#cal_freq,#cal_exception,#cal_files,#cal_notify{height:210px;overflow:auto;padding:8px}
+.x-form-label-top .x-form-item label{width:70px ! important}
+.x-form-invalid,textarea.x-form-invalid{background:none ! important}
+#cal_event_description{margin-top:10px}
+.admin_link{width:100%;text-align:center}
+.ics_link{width:100%;text-align:center}
+div#calendar-event dt{padding:0 1em 0 0;vertical-align:top}
+div#calendar-event h2{padding-top:0;margin:0}
+div#calendar-event p.bodytext,div#calendar-event-backlink,div#calendar-event img,div#calendar-event legend{margin-left:10.1em}
+div#calendar-event div dd{
+margin-left:-10.1em}
+div#calendar-event a,div#calendar-event a img,div#calendar-event dd img{margin-left:0;padding:0}
+#col3_content div.tx-cal-controller{margin-top:0;padding:0}
+div.tx-cal-controller p.found{padding-left:0.4em}
+div.tx-cal-controller dl{margin:0;padding:0;font-size:0.9em}
+div.tx-cal-controller,div.tx-cal-controller dt{background-color:#edece8;border-bottom:1px #c4c0b4 solid;font-weight:normal}
+div.tx-cal-controller dt a{color:#000;font-weight:normal}
+#calendar-event div{padding-left:0.6em;padding-bottom:0.6em}
+.tx-cal-controller dt label{text-align:left;width:auto;padding-right:0.2em;display:inline}
+#col3_content div.tx-cal-controller h1{
+margin-top:1em;font-size:1.1em;font-weight:bold;line-height:1.7em;padding:0.4em;padding-left:2.3em;margin-bottom:0;background-image:url('http://www.uni-ulm.de/fileadmin/img/icons/kalender.gif');background-position:0.5em 0.4em;background-repeat:no-repeat;border-bottom:1px #c4c0b4 solid}
+.h1kalender{background-color:#fff;background-image:url('http://www.uni-ulm.de/fileadmin/img/icons/kalender.png');background-position:0.5em 0.4em;background-repeat:no-repeat}
+div.tx-cal-controller dt,div.tx-cal-controller dd{padding:0.1em 0.5em;margin:0}
+div.tx-cal-controller label{margin-top:0}
+.monthheader{background-color:#edece8}
+.pagebrowser{padding-left:0.5em}
+div#calendar-event{margin-top:1.5em}
+.default_categoryheader{background-color:#c4c0b4;
+padding:0.1em 0.4em 0.1em 0.4em}
+.default_categoryheader_bullet{
+color:#91acbc;font-size:13px}
+.default_categoryheader_text{color:#000000;font-size:11px;margin-left:3px;padding:0.1em 0.4em 0.1em 0.4em}
+.default_categoryheader_legend_bullet{margin-left:3px}
+.default_categoryheader_legend_text{}
+.default_categoryheader_allday{text-align:center}
+.default_categorybody{background-color:#123456;
+border:0px solid #557CA3;color:#fff}
+.default_categorybody a:link{color:#fff}
+.V9G{}
+div.tx_bib-top_navigation{clear:both;padding:0px;margin:1ex 0px;margin-bottom:1.5ex;border-width:0px;border-bottom:1px solid black}
+div.tx_bib-bottom_navigation{clear:both;padding:1ex 0px;padding-top:0.5ex;margin:1ex 0px;border-width:0px}
+div.tx_bib-navi_year,div.tx_bib-navi_page,div.tx_bib-navi_pref,div.tx_bib-navi_author,div.tx_bib-navi_search{padding:0em;margin:0px;border-width:0px}
+div.tx_bib-navi_search_top,div.tx_bib-navi_author_top,div.tx_bib-navi_year_top,div.tx_bib-navi_page_top,div.tx_bib-navi_pref_top{clear:both;padding:0px;margin:1.5ex 0em;border-width:0px}
+div.tx_bib-navi_search_bottom,div.tx_bib-navi_author_bottom,div.tx_bib-navi_year_bottom,div.tx_bib-navi_page_bottom,div.tx_bib-navi_pref_bottom{clear:both;padding:0px;margin:1.5ex 0em;border-width:0px}
+.tx_bib-inline_form,.tx_bib-year_select_form,.tx_bib-author_select_form,.tx_bib-search_form{display:inline;padding:0px;margin:0px;border-width:0px}
+.tx_bib-navi_search_details,.tx_bib-navi_year_selection,.tx_bib-navi_author_letters,.tx_bib-navi_author_selection,.tx_bib-navi_page_selection{float:left}
+div.tx_bib-float_clear{clear:both;padding:0px;margin:0px;border-width:0px;height:0px;width:0px}
+.tx_bib-year_select_form,.tx_bib-author_select_form{float:right}
+div.tx_bib-navi_extra_row{padding-top:1.5ex}
+form.tx_bib-search_form{display:block}
+.tx_bib-navi_search_details{margin-left:12em}
+.tx_bib-navi_author_selection{margin-left:12em}
+.tx_bib-navi_author_select{float:right}
+form.tx_bib-navi_pref_form{display:block}
+span.tx_bib-navi_current{font-size:larger;font-weight:bold}
+.tx_bib-navi_widget{padding:0px;padding-right:1em}
+.tx_bib-navi_label{padding:0px;margin-right:0.5em}
+div.tx_bib-navi_main_label{font-weight:bold;width:9em;padding:0px;margin:0px;float:left}
+span.tx_bib-navi_separator{padding:0px 0.75em}
+.tx_bib-navi_new{text-align:right;margin:0.5em 0em;padding:0px}
+div.tx_bib-navi_export,div.tx_bib-navi_import,div.tx_bib-navi_statistic{text-align:left;margin:1em 0em;padding:0px;font-size:smaller}
+.tx_bib-export_label,.tx_bib-import_label,.tx_bib-statistic_label{font-weight:bold;margin-right:1em}
+div.tx_bib-list_container{margin:0px;padding:0px;
+}
+table.tx_bib-list{float:left;margin:0px;padding:0px;width:100%;border-collapse:collapse}
+table.tx_bib-list th,table.tx_bib-list td{border-width:0px}
+.tx_bib-year_row{padding:0.25em 0.5em;text-align:left}
+.tx_bib-year_row h3{padding:0px;margin:0px}
+.tx_bib-bibtype_row{padding:0.25em 0.5em;text-align:left}
+.tx_bib-bibtype_row h4{padding:0px;margin:0px}
+td.tx_bib-item_even,td.tx_bib-item_odd{padding:0ex 0.3em;padding-bottom:1.5ex;vertical-align:top}
+td.tx_bib-enum{text-align:right;padding-left:0px;padding-right:0.5em;max-width:4em}
+div.tx_bib-file_url_icon{padding:0px;margin:0px;padding-top:0.25ex;width:32px}
+.tx_bib-button{margin-left:0.5em;margin-right:0.5em}
+.tx_bib-italic{font-style:italic}
+.tx_bib-bold{font-weight:bold}
+.tx_bib-hidden{display:none}
+img.tx_bib-file_icon,img.tx_bib-person_icon{display:inline;padding:0px;margin:0px;border-width:0px}
+.tx_bib-block{display:block;padding:0px;margin:0px;border-width:0px}
+.tx_bib-author{padding:0px;margin:0px}
+.tx_bib-authors{padding:0px;margin:0px}
+.tx_bib-author_high{font-weight:bold}
+.tx_bib-title{font-style:italic}
+.tx_bib-series{font-style:italic}
+.tx_bib-state{font-style:italic}
+.tx_bib-type{font-style:italic}
+.tx_bib-abstract_block,.tx_bib-note_block,.tx_bib-annotation_block,.tx_bib-misc_block,.tx_bib-keywords_block,.tx_bib-tags_block{margin:1ex 0px;padding:0px}
+.tx_bib-url_block{margin:0.5ex 0px}
+div.tx_bib-missing_data{font-weight:bold;background-color:#eb0000;margin:0px;padding:1ex 1em}
+.tx_bib-warning_box{padding:1ex 1em;margin:1ex 0px;background-color:#eba533;border:4px solid black}
+.tx_bib-manipulator_block{border-width:0px;padding:0px;margin:0px 0px 2px 0.75em;float:right}
+.tx_bib-manip{border-width:0px;padding:0px;margin:0px}
+.tx_bib-edit_icon,.tx_bib-hide_icon,.tx_bib-delete_icon,.tx_bib-new_icon{border-width:0px;padding:0.25em 0.25em}
+table.tx_bib-layout{border-collapse:collapse;border-width:0px;padding:0px;margin:0px}
+table.tx_bib-layout td,table.tx_bib-layout th,table.tx_bib-layout tr{border-width:0px;padding:0px;margin:0px}
+table.tx_bib-single_item{border-collapse:collapse;border-width:0px;padding:0px;margin:0px}
+th.tx_bib-single_label,td.tx_bib-single_value{padding:0.5ex 0px}
+th.tx_bib-single_label{min-width:8em;padding-right:1em;text-align:left;vertical-align:top}
+td.tx_bib-single_value{text-align:left;vertical-align:bottom}
+div.tx_bib-editor{padding:1em;margin:1em 0em;border:1px solid black}
+table.tx_bib-editor_fields{border-collapse:collapse;padding:0px;margin:0.75ex 0em;border-width:0px}
+table.tx_bib-editor_fields th,table.tx_bib-editor_fields td{border-width:0px;padding:0.5ex 0.5em;vertical-align:top;text-align:left}
+table.tx_bib-editor_fields th{min-width:8em}
+.tx_bib-editor h3{font-size:large;border-bottom:1px solid black;padding:0.25em 0em}
+.tx_bib-editor_button{margin:0em 0.5em}
+.tx_bib-editor_button_box{padding:1em 1em;background-color:#eee}
+.tx_bib-box_right{float:right}
+select.tx_bib-editor_input,input.tx_bib-editor_input,textarea.tx_bib-editor_input{padding:2px}
+input.tx_bib-editor_input,textarea.tx_bib-editor_input{border:1px solid black}
+table.tx_bib-editor_author{border-collapse:collapse;padding:0px;margin:0px}
+table.tx_bib-editor_author th,table.tx_bib-editor_author td{border-width:0px;min-width:0px;font-size:small}
+table.tx_bib-editor_author
+th.tx_bib-editor_author_num{padding:0ex 0.75ex 0ex 0ex;text-align:right;vertical-align:middle}
+.tx_bib-editor_hidden{text-decoration:line-through}
+@media all{#header h1{color:#91acbc}
+#thema{background-color:#91acbc;background-image:url('http://www.uni-ulm.de/fileadmin/img/layout/balkenhg_uni.gif');background-repeat:repeat;color:#000}
+#col1_content h3,.mainMenu h1{color:#fff;background-color:#91acbc;border-bottom:5px #fff solid}
+#col1_content h3 a:link,.mainMenu h1 a:link{color:#fff;background-color:#91acbc;text-decoration:none}
+#col1_content h3 a:hover,.mainMenu h1 a:hover{color:#fff;background-color:#91acbc;text-decoration:none}
+#col1_content h3 a:visited,.mainMenu h1 a:visited{color:#fff;background-color:#91acbc;text-decoration:none}
+.mainMenu h1{font-size:1.1em;padding:0.25em 0 0.25em 1.4em;margin-bottom:0;border-bottom:0px #fff solid;line-height:1.2em}
+.mainMenu h1 a{}
+#col1_content h1{background-color:#91acbc}
+.menu_abstand{border-bottom:1px #bbccd8 solid}
+.mainMenu ul li#subcurrent a,.mainMenu ul li ul li#subcurrent a{background-color:#dce5eb;color:#000;border-bottom:1px #bbccd8 solid}
+.mainMenu ul li ul li ul li#subcurrent a,.mainMenu ul li u li ul li ul li#subcurrent a{background-color:#dce5eb;color:#000;border-bottom:1px #bbccd8 solid}
+.mainMenu ul{border-top:1px #bbccd8 solid;background-color:#fff}
+.mainMenu ul li ul{border-top:0px #bbccd8 solid;border-bottom:1px #bbccd8 solid}
+.mainMenu ul li ul li ul{border-top:0px #bbccd8 solid;border-bottom:0px #bbccd8 solid}
+.mainMenu ul li a,.mainMenu ul li#subcurrent ul li a,.mainMenu ul li ul li a,.mainMenu ul li ul li#subcurrent ul li a{background-color:#fff;color:#000;border-bottom:1px #bbccd8 solid}
+.mainMenu ul li ul li ul li a,.mainMenu ul li ul li ul li#subcurrent ul li a,.mainMenu ul li ul li ul li ul li a,.mainMenu ul li u li ul li ul li#subcurrent ul li a{background-color:#fff;color:#000;border-bottom:1px #bbccd8 solid}
+.mainMenu ul li a:hover,.mainMenu ul li ul li a:hover,.mainMenu ul li#subcurrent ul li a:Hover,.mainMenu ul li ul li ul li a:hover,.mainMenu ul li ul li#subcurrent ul li a:hover,.mainMenu ul li ul li ul li ul li a:hover,.mainMenu ul li ul li ul li#subcurrent ul li a:hover{background-color:#dce5eb;color:#000}
+span.fakultaetsheader,span.fakultaetsheader_uniblau{background:transparent url('http://www.uni-ulm.de/fileadmin/img/icons/cube_bg_color_default.gif') no-repeat 0.4em;padding-left:1.4em}
+span.fakultaetsheader_matgruen{background:transparent url('http://www.uni-ulm.de/fileadmin/img/icons/cube_bg_color_green.gif') no-repeat 0.4em;padding-left:1.4em}
+span.fakultaetsheader_medblau{background:transparent url('http://www.uni-ulm.de/fileadmin/img/icons/cube_bg_color_blue.gif') no-repeat 0.4em;padding-left:1.4em}
+span.fakultaetsheader_natorange{background:transparent url('http://www.uni-ulm.de/fileadmin/img/icons/cube_bg_color_orange.gif') no-repeat 0.4em;padding-left:1.4em}
+span.fakultaetsheader_iuirot{background:transparent url('http://www.uni-ulm.de/fileadmin/img/icons/cube_bg_color_red.gif') no-repeat 0.4em;padding-left:1.4em}
+h1.fakultaetsheader{background:transparent url('http://www.uni-ulm.de/fileadmin/img/icons/cube_bg_color_default.gif') no-repeat 0.7em}
+ul.linkliste{border-top:1px #87a1b2 solid;list-style-type:none}
+ul.linkliste li{border-bottom:1px #87a1b2 dotted}
+ul.linkliste li a:hover{background-color:#dce5eb}
+}
+.cse .gsc-search-button input.gsc-search-button-v2,input.gsc-search-button-v2{height:13px;margin-top:2px;min-width:13px;padding:6px !important;width:13px}
+.cse input.gsc-search-button,input.gsc-search-button{background-color:#c4c0b4 !important;background-image:-moz-linear-gradient(center top,#c4c0b4,#c4c0b4) !important;border:0px solid #c4c0b4;!important;border-radius:0 !important;color:#fff;font-family:inherit;font-size:11px;font-weight:bold;height:29px;min-width:54px;padding:0 8px}
+input.gsc-search-button{margin-left:2px}
+input.gsc-search-button,input.gsc-search-button:hover,input.gsc-search-button:focus{background-color:#c4c0b4;background-image:none;border-color:#c4c0b4;filter:none}
+.gsc-search-box-tools .gsc-search-box .gsc-input{padding-right:0 !important;
+}
+.gsc-input-box{background:#fff none repeat scroll 0 0;border:0px solid #d9d9d9 !important;height:21px !important;width:8em !important}
+.gsib_a{padding:0 !important}
+table.gstl_50{margin-bottom:0}
+form.gsc-search-box{font-size:13px;margin:0 !important;width:100%}
+input.gsc-input{border:0px solid #fff !important;font-size:13px !important;padding:3px 9px !important;width:99%}
+table.gsc-search-box{width:120px !important}
