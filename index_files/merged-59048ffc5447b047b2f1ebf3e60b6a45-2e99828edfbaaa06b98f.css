@@ -1835,8 +1835,8 @@ table.contenttable-color-244 {
 		padding:0.5em;
 		color:#000;
 		background:#f0f0f4;
-		border:1px #91acbc solid;
-		border-left:8px #91acbc solid
+		border:1px #779f69 solid;
+		border-left:8px #779f69 solid
 	}
 	code.css {
 		background-image:url('http://www.uni-ulm.de/fileadmin/img/bg_css.gif');
@@ -1960,7 +1960,7 @@ div.langMenu img.flag {
 		width:auto;
 		overflow:hidden;
 		background:transparent;
-		border-left:1px #91acbc solid;
+		border-left:1px #779f69 solid;
 		border-right:0px #fff solid
 	}
 	#nav_main ul {
@@ -1978,16 +1978,16 @@ div.langMenu img.flag {
 		line-height:0.7em;
 		list-style-type:none;
 		border-left:0px #fff solid;
-		border-right:1px #91acbc solid
+		border-right:1px #779f69 solid
 	}
 	#nav_main ul li#first {
-		border-right:1px #91acbc solid;
+		border-right:1px #779f69 solid;
 		border-left:none;
 		padding:0.5em 0em 0.5em 0em;
 		width:48px
 	}
 	#nav_main ul li#last {
-		border-left:1px #91acbc solid;
+		border-left:1px #779f69 solid;
 		border-right:none;
 		padding:0.5em 0em 0.5em 0em
 	}
@@ -2008,10 +2008,10 @@ div.langMenu img.flag {
 	}
 	#nav_main ul li#current {
 		border-left:0px #333 solid;
-		border-right:1px #91acbc solid
+		border-right:1px #779f69 solid
 	}
 	#nav_main ul li#current a,#nav_main ul li#current a:hover {
-		color:#91acbc;
+		color:#779f69;
 		background:transparent;
 		text-decoration:none
 	}
@@ -2106,7 +2106,7 @@ div.langMenu img.flag {
 }
 @media all {
 	body {
-		background:#e5ebee;
+		background:#779F69;
 		padding:10px
 	}
 	#page {
@@ -2552,7 +2552,7 @@ div.langMenu img.flag {
 		padding:5px 0 5px 5px;
 		line-height:1.5em;
 		border-bottom:1px dotted #ccd;
-		background-color:#e9eef1
+		background-color:#eaf1e9
 	}
 	.tx-rgtabs-pi1 .news-list-item {
 		padding:5px 0 5px 5px;
@@ -3113,7 +3113,7 @@ p.csc-linkToTop {
 	text-align:right
 }
 div.defaultdiv {
-	background-color:#91acbc;
+	background-color:#779f69;
 	color:#fff;
 	padding:0.9em 0 0 0
 }
@@ -3193,7 +3193,7 @@ div.whitediv_new h2 {
 	font-weight:normal
 }
 div.defaultdiv_new {
-	background-color:#91acbc;
+	background-color:#779f69;
 	color:#fff;
 	padding:0.4em 0 0.4em 0.75em;
 	margin:0 0 1.2em 0;
@@ -3208,7 +3208,7 @@ div.defaultdiv_new:before {
 	height:0;
 	border-left:13px solid transparent;
 	border-right:13px solid transparent;
-	border-top:13px solid #91acbc
+	border-top:13px solid #779f69
 }
 div.defaultdiv_new h2 {
 	padding:0.5em;
@@ -3516,7 +3516,7 @@ div.natborder {
 	margin-bottom:2em !important
 }
 div.uniborder {
-	border:2px solid #91acbc;
+	border:2px solid #779f69;
 	margin-top:0 !important;
 	margin-bottom:0.7em
 }
@@ -3604,10 +3604,10 @@ span.headerslogan {
 	border-bottom:1px #b10135 solid
 }
 #col3_content h2.uni_border {
-	color:#91acbc;
+	color:#779f69;
 	padding-bottom:0.4em;
 	margin-bottom:1em;
-	border-bottom:1px #91acbc solid
+	border-bottom:1px #779f69 solid
 }
 #col3_content h2.nat_border {
 	color:#df6d07;
@@ -3687,7 +3687,7 @@ span.nat_orange {
 	color:#df6d07
 }
 span.uni_blau {
-	color:#91acbc
+	color:#779f69
 }
 span.uni_beige {
 	color:#c4c0b4
@@ -4847,7 +4847,7 @@ div#calendar-event {
 	padding:0.1em 0.4em 0.1em 0.4em
 }
 .default_categoryheader_bullet {
-	color:#91acbc;
+	color:#779f69;
 	font-size:13px
 }
 .default_categoryheader_text {
@@ -5201,32 +5201,32 @@ table.tx_bib-editor_authorth.tx_bib-editor_author_num {
 }
 @media all {
 	#header h1 {
-		color:#91acbc
+		color:#779f69
 	}
 	#thema {
-		background-color:#91acbc;
+		background-color:#779f69;
 		background-image:url('http://www.uni-ulm.de/fileadmin/img/layout/balkenhg_uni.gif');
 		background-repeat:repeat;
 		color:#000
 	}
 	#col1_content h3,.mainMenu h1 {
 		color:#fff;
-		background-color:#91acbc;
+		background-color:#779f69;
 		border-bottom:5px #fff solid
 	}
 	#col1_content h3 a:link,.mainMenu h1 a:link {
 		color:#fff;
-		background-color:#91acbc;
+		background-color:#779f69;
 		text-decoration:none
 	}
 	#col1_content h3 a:hover,.mainMenu h1 a:hover {
 		color:#fff;
-		background-color:#91acbc;
+		background-color:#779f69;
 		text-decoration:none
 	}
 	#col1_content h3 a:visited,.mainMenu h1 a:visited {
 		color:#fff;
-		background-color:#91acbc;
+		background-color:#779f69;
 		text-decoration:none
 	}
 	.mainMenu h1 {
@@ -5239,7 +5239,7 @@ table.tx_bib-editor_authorth.tx_bib-editor_author_num {
 	.mainMenu h1 a {
 	}
 	#col1_content h1 {
-		background-color:#91acbc
+		background-color:#779f69
 	}
 	.menu_abstand {
 		border-bottom:1px #bbccd8 solid
