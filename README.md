@@ -21,16 +21,15 @@
   2095 total
 ```
 
-2) Mit dem online Tool [Tabifier](http://tools.arantius.com/tabifier) die CSS-Dateien etwas schöner gemacht. Resultat:
+2) Mit [Atoms](https://atom.io/) [atom-beautify](https://atom.io/packages/atom-beautify) ~~dem online Tool ~~[Tabifier](http://tools.arantius.com/tabifier)~~ die CSS-Dateien schöner gemacht. Resultat:
 ```Shell
- % wc -l index_files/*.css
-   187 index_files/jquery-ui.css
-  5375 index_files/merged-59048ffc5447b047b2f1ebf3e60b6a45-2e99828edfbaaa06b98f.css
-   298 index_files/powermailDateTimePicker-52c4ee0d634bb969d854e14299d850dc00f6.css
-   119 index_files/print_003-5d0d10c4f8fe6544cf7bb48133c82cde7ab9.css
-    12 index_files/socialwidgets.css
+% wc -l index_files/*.css
+   216 index_files/jquery-ui.css
+  5349 index_files/merged-59048ffc5447b047b2f1ebf3e60b6a45-2e99828edfbaaa06b98f.css
+   298 index_files/powermailDateTimePicker-52c4ee0d634bb969d854e14299d850dc.css
+   119 index_files/print_003-5d0d10c4f8fe6544cf7bb48133c82cde.css
+    40 index_files/socialwidgets.css
     72 index_files/styles.css
-  1350 index_files/ui.css
-  7413 total
+  1546 index_files/ui.css
+  7640 total
 ```
-
